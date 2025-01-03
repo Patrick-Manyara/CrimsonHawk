@@ -46,6 +46,12 @@
                 width: 80px;
                 height: 80px;
             }
+
+            html,
+            body {
+                width: 100%;
+                overflow-x: hidden;
+            }
         }
     </style>
     <!-- Preloader Start -->
@@ -104,7 +110,7 @@
                         <li><a href="about.php">About Us</a></li>
 
                         <li class="dropdown">
-                            <a  class="dropdown-toggle" data-toggle="dropdown">Digital Marketing</a>
+                            <a class="dropdown-toggle" data-toggle="dropdown">Digital Marketing</a>
                             <ul class="dropdown-menu">
                                 <li><a href="service.php?id=social">Social Media Advertising</a></li>
                                 <li><a href="service.php?id=sms">SMS Marketing</a></li>
@@ -118,7 +124,7 @@
                         </li>
 
                         <li class="dropdown">
-                            <a  class="dropdown-toggle" data-toggle="dropdown">Outdoor Marketing</a>
+                            <a class="dropdown-toggle" data-toggle="dropdown">Outdoor Marketing</a>
                             <ul class="dropdown-menu">
                                 <li><a href="service.php?id=outdoor">Movable Billboards</a></li>
                                 <li><a href="service.php?id=sales">Sales Team</a></li>
@@ -127,7 +133,7 @@
                         </li>
 
                         <li class="dropdown">
-                            <a  class="dropdown-toggle" data-toggle="dropdown">Courses</a>
+                            <a class="dropdown-toggle" data-toggle="dropdown">Courses</a>
                             <ul class="dropdown-menu">
                                 <li><a href="service.php?id=workshops">Digital Marketing Training</a></li>
                                 <li><a href="service.php?id=workshops">Advanced Digital Strategies</a></li>

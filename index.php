@@ -191,7 +191,7 @@
                                 <h4>Enterprises Company <br>Profile</h4>
                                 <p>
                                     <strong>
-                                        <a href="new.riversidefilters.co.ke/uploads/CHL_SMALL_BUSINESS_PROFILE.pdf">
+                                        <a style="border-radius: 5px;font-weight: 600;letter-spacing: 0.5px;font-size: 16px;color: #EF7504;border: 0px;padding: 0px;background: transparent;" href="new.riversidefilters.co.ke/uploads/CHL_SMALL_BUSINESS_PROFILE.pdf">
                                             Download This Document
                                         </a>
                                     </strong>
@@ -206,7 +206,7 @@
                                 <h4>Small Businesses Company profile</h4>
                                 <p>
                                     <strong>
-                                        <a href="new.riversidefilters.co.ke/uploads/CHL_SMALL_BUSINESS_PROFILE.pdf">
+                                        <a style="border-radius: 5px;font-weight: 600;letter-spacing: 0.5px;font-size: 16px;color: #EF7504;border: 0px;padding: 0px;background: transparent;" href="new.riversidefilters.co.ke/uploads/CHL_SMALL_BUSINESS_PROFILE.pdf">
                                             Download This Document
                                         </a>
                                     </strong>

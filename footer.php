@@ -56,7 +56,7 @@
                             <a href="single.php?id=1">How Can I Build a Strong Online Presence for My Business?</a>
                             <ul class="meta">
                                 <li>
-                                    <i class="ti-calendar"></i> 23 Dec, 2024
+                                    <i class="ti-calendar"></i> 23 Nov, 2024
                                 </li>
                             </ul>
                         </div>
@@ -67,7 +67,7 @@
                             <a href="single.php?id=3">What is the Difference Between Organic and Paid Marketing?</a>
                             <ul class="meta">
                                 <li>
-                                    <i class="ti-calendar"></i> 27 Dec, 2024
+                                    <i class="ti-calendar"></i> 27 Aug, 2024
                                 </li>
                             </ul>
                         </div>
@@ -221,6 +221,11 @@
         .CounterArea {
             justify-content: center;
             align-items: center;
+        }
+
+        #portfolio-grid {
+            height: auto !important;
+            padding: 10px;
         }
     }
 </style>

@@ -33,7 +33,7 @@
                             <div class="info">
                                 <div class="meta">
                                     <ul>
-                                        <li>23 Oct, 2024</li>
+                                        <li>23 Dec, 2024</li>
                                     </ul>
                                 </div>
                                 <div class="title">
@@ -58,7 +58,7 @@
                             <div class="info">
                                 <div class="meta">
                                     <ul>
-                                        <li>24 Aug, 2024</li>
+                                        <li>4 Dec, 2024</li>
                                     </ul>
                                 </div>
                                 <div class="title">
@@ -82,7 +82,7 @@
                             <div class="info">
                                 <div class="meta">
                                     <ul>
-                                        <li>25 Aug, 2024</li>
+                                        <li>25 Nov, 2024</li>
                                     </ul>
                                 </div>
                                 <div class="title">
@@ -106,7 +106,7 @@
                             <div class="info">
                                 <div class="meta">
                                     <ul>
-                                        <li>26 Aug, 2024</li>
+                                        <li>6 Nov, 2024</li>
                                     </ul>
                                 </div>
                                 <div class="title">
@@ -130,7 +130,7 @@
                             <div class="info">
                                 <div class="meta">
                                     <ul>
-                                        <li>27 Aug, 2024</li>
+                                        <li>27 Oct, 2024</li>
                                     </ul>
                                 </div>
                                 <div class="title">
@@ -154,7 +154,7 @@
                             <div class="info">
                                 <div class="meta">
                                     <ul>
-                                        <li>28 Aug, 2024</li>
+                                        <li>8 Oct, 2024</li>
                                     </ul>
                                 </div>
                                 <div class="title">
@@ -178,7 +178,7 @@
                             <div class="info">
                                 <div class="meta">
                                     <ul>
-                                        <li>29 Aug, 2024</li>
+                                        <li>9 Sep, 2024</li>
                                     </ul>
                                 </div>
                                 <div class="title">
@@ -204,7 +204,7 @@
                             <div class="info">
                                 <div class="meta">
                                     <ul>
-                                        <li>30 Aug, 2024</li>
+                                        <li>20 Aug, 2024</li>
                                     </ul>
                                 </div>
                                 <div class="title">
@@ -228,7 +228,7 @@
                             <div class="info">
                                 <div class="meta">
                                     <ul>
-                                        <li>31 Aug, 2024</li>
+                                        <li>1 Aug, 2024</li>
                                     </ul>
                                 </div>
                                 <div class="title">
@@ -252,7 +252,7 @@
                             <div class="info">
                                 <div class="meta">
                                     <ul>
-                                        <li>1 Sep, 2024</li>
+                                        <li>11 July, 2024</li>
                                     </ul>
                                 </div>
                                 <div class="title">
@@ -276,7 +276,7 @@
                             <div class="info">
                                 <div class="meta">
                                     <ul>
-                                        <li>2 Sep, 2024</li>
+                                        <li>2 July, 2024</li>
                                     </ul>
                                 </div>
                                 <div class="title">
@@ -300,7 +300,7 @@
                             <div class="info">
                                 <div class="meta">
                                     <ul>
-                                        <li>3 Sep, 2024</li>
+                                        <li>23 June, 2024</li>
                                     </ul>
                                 </div>
                                 <div class="title">
@@ -324,7 +324,7 @@
                             <div class="info">
                                 <div class="meta">
                                     <ul>
-                                        <li>4 Sep, 2024</li>
+                                        <li>4 June, 2024</li>
                                     </ul>
                                 </div>
                                 <div class="title">
@@ -348,7 +348,7 @@
                             <div class="info">
                                 <div class="meta">
                                     <ul>
-                                        <li>5 Sep, 2024</li>
+                                        <li>15 May, 2024</li>
                                     </ul>
                                 </div>
                                 <div class="title">
@@ -376,7 +376,7 @@
                             <div class="info">
                                 <div class="meta">
                                     <ul>
-                                        <li>6 Sep, 2024</li>
+                                        <li>6 May, 2024</li>
                                     </ul>
                                 </div>
                                 <div class="title">
@@ -400,7 +400,7 @@
                             <div class="info">
                                 <div class="meta">
                                     <ul>
-                                        <li>7 Sep, 2024</li>
+                                        <li>17 Apr, 2024</li>
                                     </ul>
                                 </div>
                                 <div class="title">
@@ -424,7 +424,7 @@
                             <div class="info">
                                 <div class="meta">
                                     <ul>
-                                        <li>8 Sep, 2024</li>
+                                        <li>8 Apr, 2024</li>
                                     </ul>
                                 </div>
                                 <div class="title">
@@ -448,7 +448,7 @@
                             <div class="info">
                                 <div class="meta">
                                     <ul>
-                                        <li>9 Sep, 2024</li>
+                                        <li>29 Mar, 2024</li>
                                     </ul>
                                 </div>
                                 <div class="title">
@@ -472,7 +472,7 @@
                             <div class="info">
                                 <div class="meta">
                                     <ul>
-                                        <li>10 Sep, 2024</li>
+                                        <li>10 Mar, 2024</li>
                                     </ul>
                                 </div>
                                 <div class="title">
@@ -496,7 +496,7 @@
                             <div class="info">
                                 <div class="meta">
                                     <ul>
-                                        <li>11 Sep, 2024</li>
+                                        <li>11 Feb, 2024</li>
                                     </ul>
                                 </div>
                                 <div class="title">

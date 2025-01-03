@@ -31,6 +31,7 @@
                         of all sizes reach new heights. Whether you're a startup establishing your brand or an established business looking to expand
                         your reach, we have the tools, expertise, and creativity to make it happen.
                     </p>
+
                     <div class="features">
                         <div class="item">
                             <div class="icon">
@@ -39,7 +40,11 @@
                             <div class="info">
                                 <h4>Enterprises Company <br>Profile</h4>
                                 <p>
-                                    Click to download this document.
+                                    <strong>
+                                        <a style="border-radius: 5px;font-weight: 600;letter-spacing: 0.5px;font-size: 16px;color: #EF7504;border: 0px;padding: 0px;background: transparent;" href="new.riversidefilters.co.ke/uploads/CHL_SMALL_BUSINESS_PROFILE.pdf">
+                                            Download This Document
+                                        </a>
+                                    </strong>
                                 </p>
                             </div>
                         </div>
@@ -50,7 +55,11 @@
                             <div class="info">
                                 <h4>Small Businesses Company profile</h4>
                                 <p>
-                                    Click to download this document.
+                                    <strong>
+                                        <a style="border-radius: 5px;font-weight: 600;letter-spacing: 0.5px;font-size: 16px;color: #EF7504;border: 0px;padding: 0px;background: transparent;" href="new.riversidefilters.co.ke/uploads/CHL_SMALL_BUSINESS_PROFILE.pdf">
+                                            Download This Document
+                                        </a>
+                                    </strong>
                                 </p>
                             </div>
                         </div>
@@ -111,9 +120,6 @@
             <div class="col-md-8 col-md-offset-2">
                 <div class="site-heading text-light text-center">
                     <h2>Team Members</h2>
-                    <p>
-                        While mirth large of on front. Ye he greater related adapted proceed entered an. Through it examine express promise no. Past add size game cold girl off how old
-                    </p>
                 </div>
             </div>
         </div>
@@ -134,7 +140,7 @@
                                     <h4>Daniel Omema</h4>
                                     <span>Founder & Managing Director</span>
                                 </div>
-                                
+
                             </div>
                         </div>
                     </div>
@@ -156,7 +162,7 @@
                                     <h4>Denis Mwabu</h4>
                                     <span>Marketing Strategist</span>
                                 </div>
-                                
+
                             </div>
                         </div>
                     </div>
@@ -178,7 +184,7 @@
                                     <h4>Shiryl Beryl</h4>
                                     <span>Manager, Outdoor Advertising</span>
                                 </div>
-                                
+
                             </div>
                         </div>
                     </div>
@@ -200,7 +206,7 @@
                                     <h4>Mary Mwangi</h4>
                                     <span>Social Media Manager</span>
                                 </div>
-                                
+
                             </div>
                         </div>
                     </div>

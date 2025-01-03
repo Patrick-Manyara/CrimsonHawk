@@ -56,7 +56,7 @@ if ($errorMessage) {
 
 include_once 'header.php'; ?>
 <!-- Start Breadcrumb  -->
-<div class="breadcrumb-area shadow dark bg-fixed text-center text-light" style="background-image: url(assets/img/blog<?= $requestedId ?>.jpg);">
+<div class="breadcrumb-area shadow dark bg-fixed text-center text-light" style="background-image: url(assets/img/blog12.jpg);">
     <div class="container">
         <div class="row">
             <div class="col-lg-12 col-md-12">
