@@ -190,7 +190,11 @@
                             <div class="info">
                                 <h4>Enterprises Company <br>Profile</h4>
                                 <p>
-                                    Click to download this document.
+                                    <strong>
+                                        <a href="new.riversidefilters.co.ke/uploads/CHL_SMALL_BUSINESS_PROFILE.pdf">
+                                            Download This Document
+                                        </a>
+                                    </strong>
                                 </p>
                             </div>
                         </div>
@@ -201,7 +205,11 @@
                             <div class="info">
                                 <h4>Small Businesses Company profile</h4>
                                 <p>
-                                    Click to download this document.
+                                    <strong>
+                                        <a href="new.riversidefilters.co.ke/uploads/CHL_SMALL_BUSINESS_PROFILE.pdf">
+                                            Download This Document
+                                        </a>
+                                    </strong>
                                 </p>
                             </div>
                         </div>
@@ -364,7 +372,7 @@
             <div class="col-md-6 info">
                 <ul>
                     <li class="fun-fact">
-                        <div style="display: flex;">
+                        <div class="CounterArea">
                             <div class="timer" data-to="50" data-speed="5000"></div><span>+</span>
                         </div>
                         <span class="medium">Satisfied Businesses</span>
@@ -373,7 +381,7 @@
                         </p>
                     </li>
                     <li class="fun-fact">
-                        <div style="display: flex;">
+                        <div class="CounterArea">
                             <div class="timer" data-to="50" data-speed="5000"></div><span>+</span>
                         </div>
                         <span class="medium">Successful Projects</span>
@@ -454,10 +462,10 @@
                                 Click the links below to download the files:
                             </p>
                             <ul class="MyUl">
-                                <li><a href="assets/files/CHL_OFFICIAL_PROFILE.pdf">CHL Official Profile</a></li>
-                                <li><a href="assets/files/CHL_SMALL_BUSINESS_PROFILE.pdf">Small Business Packages</a></li>
-                                <li><a href="assets/files/CHL_WEB_DEV_PACKAGES.pdf">Website Development Package</a></li>
-                                <li><a href="assets/files/CHL_MARKETING_PACKAGES.pdf">Website Marketing Package</a></li>
+                                <li><a href="https://new.riversidefilters.co.ke/uploads/CHL_OFFICIAL_PROFILE.pdf">CHL Official Profile</a></li>
+                                <li><a href="https://new.riversidefilters.co.ke/uploads/CHL_SMALL_BUSINESS_PROFILE.pdf">Small Business Packages</a></li>
+                                <li><a href="https://new.riversidefilters.co.ke/uploads/CHL_WEB_DEV_PACKAGES.pdf">Website Development Package</a></li>
+                                <li><a href="https://new.riversidefilters.co.ke/uploads/CHL_MARKETING_PACKAGES.pdf">Website Marketing Package</a></li>
                             </ul>
                         </div>
                     </div>
@@ -467,8 +475,8 @@
                                 Click the links below to download the files:
                             </p>
                             <ul class="MyUl">
-                                <li><a href="assets/files/CHL_VIDEOGRAPHY_PACKAGES.pdf">CHL Videography Packages</a></li>
-                                <li><a href="assets/files/CHL_TRAINING_PACKAGES.pdf">Training Packages</a></li>
+                                <li><a href="https://new.riversidefilters.co.ke/uploads/CHL_VIDEOGRAPHY_PACKAGES.pdf">CHL Videography Packages</a></li>
+                                <li><a href="https://new.riversidefilters.co.ke/uploads/CHL_TRAINING_PACKAGES.pdf">Training Packages</a></li>
                             </ul>
                         </div>
                     </div>
@@ -478,8 +486,8 @@
                                 Click the links below to download the files:
                             </p>
                             <ul class="MyUl">
-                                <li><a href="assets/files/CHL_SALES_PROFILE.pdf">Sales Force Profile</a></li>
-                                <li><a href="assets/files/CHL_CONNECT_KENYA.pdf">Connect Kenya</a></li>
+                                <li><a href="https://new.riversidefilters.co.ke/uploads/CHL_SALES_PROFILE.pdf">Sales Force Profile</a></li>
+                                <li><a href="https://new.riversidefilters.co.ke/uploads/CHL_CONNECT_KENYA.pdf">Connect Kenya</a></li>
                             </ul>
                         </div>
                     </div>

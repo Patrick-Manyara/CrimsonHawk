@@ -212,6 +212,17 @@
         height: 32em;
         object-fit: cover;
     }
+
+    .CounterArea {
+        display: flex;
+    }
+
+    @media screen and (max-width:600px) {
+        .CounterArea {
+            justify-content: center;
+            align-items: center;
+        }
+    }
 </style>
 
 <!-- jQuery Frameworks
