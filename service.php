@@ -146,12 +146,12 @@ include_once 'header.php'; ?>
                             <ul>
                                 <li>
                                     <div class="info">
-                                        <a href="https://new.riversidefilters.co.ke/uploads/CHL_OFFICIAL_PROFILE.pdf">Enterprises Company Profile</a>
+                                        <a target="_blank" href="https://new.riversidefilters.co.ke/uploads/CHL_OFFICIAL_PROFILE.pdf">Enterprises Company Profile</a>
                                     </div>
                                 </li>
                                 <li>
                                     <div class="info">
-                                        <a href="https://new.riversidefilters.co.ke/uploads/CHL_SMALL_BUSINESS_PROFILE.pdf">Small Businesses Company Profile</a>
+                                        <a target="_blank" href="https://new.riversidefilters.co.ke/uploads/CHL_SMALL_BUSINESS_PROFILE.pdf">Small Businesses Company Profile</a>
                                     </div>
                                 </li>
                             </ul>
