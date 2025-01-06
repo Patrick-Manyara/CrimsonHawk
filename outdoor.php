@@ -48,7 +48,7 @@ if ($errorMessage) {
 }
 include_once 'header.php'; ?>
 <!-- Start Breadcrumb  -->
-<div class="breadcrumb-area shadow dark bg-fixed text-center text-light" style="background-image: url(assets/img/bg_3.png);background-position: top;">
+<div class="breadcrumb-area shadow dark bg-fixed text-center text-light" style="background-image: url(assets/img/bg_5.png);background-position: top;">
     <div class="container">
         <div class="row">
             <div class="col-lg-12 col-md-12">
@@ -144,38 +144,47 @@ include_once 'header.php'; ?>
                                 <h4>Download:</h4>
                             </div>
                             <ul>
-                                <li>
-                                    <a target="_blank" href="https://new.riversidefilters.co.ke/uploads/CHL_OFFICIAL_PROFILE.pdf">
-                                        <div class="DownloadStyle">
-                                            <div>
-                                                <img src="assets/img/pdf.png" class="PdfImage" />
+                                <?php
+                                if ($_GET['id'] == 'outdoor') { ?>
+                                    <li>
+                                        <a target="_blank" href="https://new.riversidefilters.co.ke/uploads/CONNECT_KENYA_PROFILE.pdf">
+                                            <div class="DownloadStyle">
+                                                <div>
+                                                    <img src="assets/img/pdf.png" class="PdfImage" />
+                                                </div>
+                                                <div>
+                                                    <h4 class="ServiceDownloadH1">Connect Kenya Profile</h4>
+                                                    <p class="ServiceDownloadPee">
+                                                        Click the button to download this document
+                                                    </p>
+                                                </div>
                                             </div>
-                                            <div>
-                                                <h4 class="ServiceDownloadH1">Large Companies Profile</h4>
-                                                <p class="ServiceDownloadPee">
-                                                    Click the button to download this document
-                                                </p>
-                                            </div>
-                                        </div>
-                                    </a>
-                                </li>
+                                        </a>
+                                    </li>
+                                <?php
+                                }
+                                ?>
 
-                                <li>
-                                    <a target="_blank" href="https://new.riversidefilters.co.ke/uploads/CHL_OFFICIAL_PROFILE.pdf">
-                                        <div class="DownloadStyle">
-                                            <div>
-                                                <img src="assets/img/pdf.png" class="PdfImage" />
+                                <?php
+                                if ($_GET['id'] == 'sales') { ?>
+                                    <li>
+                                        <a target="_blank" href="https://new.riversidefilters.co.ke/uploads/CHL_SALES_PROFILE.pdf">
+                                            <div class="DownloadStyle">
+                                                <div>
+                                                    <img src="assets/img/pdf.png" class="PdfImage" />
+                                                </div>
+                                                <div>
+                                                    <h4 class="ServiceDownloadH1">Sales Force Profile</h4>
+                                                    <p class="ServiceDownloadPee">
+                                                        Click the button to download this document
+                                                    </p>
+                                                </div>
                                             </div>
-                                            <div>
-                                                <h4 class="ServiceDownloadH1">Small Businesses Company Profile</h4>
-                                                <p class="ServiceDownloadPee">
-                                                    Click the button to download this document
-                                                </p>
-                                            </div>
-                                        </div>
-                                    </a>
-                                </li>
-
+                                        </a>
+                                    </li>
+                                <?php
+                                }
+                                ?>
                             </ul>
                         </div>
                         <div class="sidebar-item archives">

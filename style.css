@@ -68,7 +68,7 @@ html {
 }
 
 body {
-  font-family: 'Jost', sans-serif;
+  font-family: 'Montserrat', sans-serif;
   font-size: 14px;
   font-weight: 400;
   line-height: 26px;
@@ -129,8 +129,8 @@ p {
   line-height: 26px;
   margin: 0 0 15px;
   text-transform: none;
-  font-weight: 400;
-  font-size: 1.1em;
+  font-weight: 500;
+  font-size: 1em;
 }
 
 hr {
@@ -336,31 +336,31 @@ input {
 }
 
 .default-padding {
-  padding-top: 120px;
-  padding-bottom: 120px;
+  padding-top: 40px;
+  padding-bottom: 40px;
 }
 
 .default-padding-top {
-  padding-top: 120px;
+  padding-top: 40px;
 }
 
 .default-padding-bottom {
-  padding-bottom: 120px;
+  padding-bottom: 40px;
 }
 
 .default-padding.bottom-less {
-  padding-top: 120px;
-  padding-bottom: 90px;
+  padding-top: 40px;
+  padding-bottom: 40px;
 }
 
 .default-padding.bottom-30 {
-  padding-top: 120px;
-  padding-bottom: 30px;
+  padding-top: 40px;
+  padding-bottom: 40px;
 }
 
 .default-padding.bottom-20 {
-  padding-top: 120px;
-  padding-bottom: 20px;
+  padding-top: 40px;
+  padding-bottom: 40px;
 }
 
 .padding-xl {
@@ -686,7 +686,7 @@ nav.navbar.bootsnav.sticked .attr-nav.social li {
 
 .site-heading h2 {
   display: inline-block;
-  font-weight: 600;
+  font-weight: 800;
   padding-bottom: 20px;
   position: relative;
   text-transform: capitalize;
@@ -752,7 +752,7 @@ nav.navbar.bootsnav.sticked .attr-nav.social li {
      # Bradcrumb 
 =================================================================== */
 .breadcrumb-area {
-  padding: 150px 0;
+  padding: 200px 0;
   position: relative;
   z-index: 1;
 }
@@ -783,11 +783,13 @@ nav.navbar.bootsnav.sticked .attr-nav.social li {
 
 .breadcrumb-area h1 {
   display: block;
-  font-weight: 600;
+  font-weight: 900;
   text-transform: uppercase;
   font-size: 40px;
   margin-top: -10px;
+  color: #EF7504;
   margin-bottom: 0;
+  font-size: 4em;
 }
 
 .breadcrumb > li + li::before {
@@ -1568,15 +1570,7 @@ body,
 }
 
 .about-area .info.box a {
-  display: inline-block;
-  border: 1px solid #03492F;
-  padding: 10px 40px;
-  border-radius: 5px;
-  font-weight: 600;
-  letter-spacing: 0.5px;
-  font-size: 16px;
-  color: #FFFFFF;
-  background: #EF7504;
+
 }
 
 .about-area .info.box a i {
@@ -1714,6 +1708,7 @@ body,
     padding: 50px;
     border: 1px solid #e7e7e7;
     border-bottom: 2px solid #03492F;
+    background: #EF7504;
 }
 
 .features-area .features-items .item i {
@@ -1726,10 +1721,12 @@ body,
 .features-area .features-items .item h4 {
     text-transform: capitalize;
     font-weight: 600;
+    color: #ffffff;
 }
 
 .features-area .features-items .item p {
     margin: 0;
+    color: #ffffff;
 }
 
 /* Features Shape */
@@ -2359,7 +2356,6 @@ body,
 
 .team-members .item .info span {
   color: #EF7504;
-  font-family: '', sans-serif;
   font-weight: 500;
 }
 
@@ -2388,9 +2384,9 @@ body,
   display: flex;
   justify-content: space-between;
   align-items: center;
-  border-top: 1px solid #e7e7e7;
-  margin-top: 20px;
-  padding-top: 20px;
+  border-bottom: 1px solid #e7e7e7;
+  /* margin-top: 20px;
+  padding-top: 20px; */
 }
 
 .team-members .bottom a {
@@ -3078,13 +3074,13 @@ img.loader {
 .sidebar-item.recent-post li {
   border-bottom: 1px solid #e7e7e7;
   margin-bottom: 15px;
-  padding-bottom: 15px;
+  padding: 10px;
 }
 
 .sidebar-item.recent-post li:last-child {
-  border: medium none;
+  /* border: medium none; */
   margin: 0;
-  padding: 0;
+  /* padding: 0; */
 }
 
 .sidebar-item.recent-post li:last-child {
@@ -3772,11 +3768,11 @@ footer .link li a {
 footer .link li a::before {
   content: "";
   left: 0;
-  top: 12px;
+  top: 8px;
   position: absolute;
-  height: 2px;
-  width: 5px;
-  border: 1px solid rgba(255, 255, 255, 0.3);
+  height: 10px;
+  width: 10px;
+  border: 5px solid #03492F;
 }
 
 footer .contact li {
@@ -3803,16 +3799,13 @@ footer .contact li:last-child {
 }
 
 footer.bg-dark .widget-title {
-  color: #ffffff;
+  color: #03492F;
   text-transform: uppercase;
-  font-weight: 600;
+  font-weight: 900;
   letter-spacing: 1px;
   font-size: 16px;
 }
 
-footer.bg-dark .widget-title {
-  color: #ffffff;
-}
 
 footer.bg-dark p, footer.bg-dark li, footer.bg-dark a {
   color: #ffffff;
@@ -3843,7 +3836,7 @@ footer.bg-dark p, footer.bg-dark li, footer.bg-dark a {
 }
 
 footer.bg-dark.v2 .f-item .widget-title {
-  font-family: "Jost",sans-serif;
+  font-family: "Montserrat",sans-serif;
   font-size: 17px;
   font-weight: 600;
   text-transform: uppercase;

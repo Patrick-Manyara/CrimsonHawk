@@ -5,18 +5,14 @@
         <!-- Wrapper for slides -->
         <div class="carousel-inner text-light carousel-zoom">
             <div class="item active">
-                <div class="slider-thumb bg-cover" style="background-image: url(assets/img/slider6.jpg);"></div>
+                <div class="slider-thumb bg-cover" style="background-image: url(assets/img/slider_1.png);"></div>
                 <div class="box-table shadow dark">
                     <div class="box-cell">
                         <div class="container">
                             <div class="row">
                                 <div class="col-md-8">
                                     <div class="content">
-                                        <h2 data-animation="animated slideInDown">Marketing Campaigns That <span style="color:#EF7504;">Convert</span></h2>
-                                        <p data-animation="animated slideInLeft">
-                                            From captivating content to precision targeting, we create strategies that drive engagement, build trust, and deliver tangible results for your business.
-                                        </p>
-                                        <a data-animation="animated slideInUp" class="btn btn-theme theme btn-md" href="#services">Our Services</a>
+
                                     </div>
                                 </div>
                             </div>
@@ -25,18 +21,14 @@
                 </div>
             </div>
             <div class="item">
-                <div class="slider-thumb bg-cover" style="background-image: url(assets/img/slider2.jpg);"></div>
+                <div class="slider-thumb bg-cover" style="background-image: url(assets/img/slider_2.png);"></div>
                 <div class="box-table shadow dark">
                     <div class="box-cell">
                         <div class="container">
                             <div class="row">
                                 <div class="col-md-8">
                                     <div class="content">
-                                        <h2 data-animation="animated slideInDown">Attract the <span style="color:#EF7504;">Right Customers</span></h2>
-                                        <p data-animation="animated slideInLeft">
-                                            Stay ahead with cutting-edge marketing solutions that not only boost sales but also provide clear, actionable insights to measure your growth.
-                                        </p>
-                                        <a data-animation="animated slideInUp" class="btn btn-theme theme btn-md" href="#services">Our Services</a>
+
                                     </div>
                                 </div>
                             </div>
@@ -46,18 +38,14 @@
             </div>
 
             <div class="item">
-                <div class="slider-thumb bg-cover" style="background-image: url(assets/img/slider3.jpg);"></div>
+                <div class="slider-thumb bg-cover" style="background-image: url(assets/img/slider_3.png);"></div>
                 <div class="box-table shadow dark">
                     <div class="box-cell">
                         <div class="container">
                             <div class="row">
                                 <div class="col-md-8">
                                     <div class="content">
-                                        <h2 data-animation="animated slideInDown">We're Experts in <span style="color:#EF7504;">Digital & Outdoor</span> Advertising</h2>
-                                        <p data-animation="animated slideInLeft">
-                                            Whether online or on the streets, we ensure your brand is seen, heard, and remembered with tailored advertising strategies.
-                                        </p>
-                                        <a data-animation="animated slideInUp" class="btn btn-theme theme btn-md" href="#services">Our Services</a>
+
                                     </div>
                                 </div>
                             </div>
@@ -67,18 +55,14 @@
             </div>
 
             <div class="item">
-                <div class="slider-thumb bg-cover" style="background-image: url(assets/img/slider4.jpg);"></div>
+                <div class="slider-thumb bg-cover" style="background-image: url(assets/img/slider_4.png);"></div>
                 <div class="box-table shadow dark">
                     <div class="box-cell">
                         <div class="container">
                             <div class="row">
                                 <div class="col-md-8">
                                     <div class="content">
-                                        <h2 data-animation="animated slideInDown">We Turn Your Startup into a <span style="color:#EF7504;">Success</span></h2>
-                                        <p data-animation="animated slideInLeft">
-                                            Transform your ideas into impactful brands with our proven marketing strategies designed to position your business for long-term growth.
-                                        </p>
-                                        <a data-animation="animated slideInUp" class="btn btn-theme theme btn-md" href="#services">Our Services</a>
+
                                     </div>
                                 </div>
                             </div>
@@ -88,18 +72,14 @@
             </div>
 
             <div class="item">
-                <div class="slider-thumb bg-cover" style="background-image: url(assets/img/slider5.jpg);"></div>
+                <div class="slider-thumb bg-cover" style="background-image: url(assets/img/slider_5.png);"></div>
                 <div class="box-table shadow dark">
                     <div class="box-cell">
                         <div class="container">
                             <div class="row">
                                 <div class="col-md-8">
                                     <div class="content">
-                                        <h2 data-animation="animated slideInDown">We Make Your Brand Unforgettable</h2>
-                                        <p data-animation="animated slideInLeft">
-                                            Stand out from the competition with powerful strategies that amplify your brand's visibility, create lasting connections, and leave a lasting impression.
-                                        </p>
-                                        <a data-animation="animated slideInUp" class="btn btn-theme theme btn-md" href="#services">Our Services</a>
+
                                     </div>
                                 </div>
                             </div>
@@ -174,7 +154,7 @@
             <div class="info box">
                 <div class="col-md-4">
                     <h2>We Have <strong>3+ Years</strong> Years of experience in excellent Marketing Services.</h2>
-                    <a href="tel:0708-864-076"><i class="ti-headphone-alt"></i> : 0708-864-076</a>
+                    <a href="tel:0708-864-076" class="AboutBtn"><i class="ti-headphone-alt"></i> : 0708-864-076</a>
                 </div>
                 <div class="col-md-8">
                     <p>
@@ -184,35 +164,37 @@
                     </p>
                     <div class="features">
                         <div class="item">
-                            <div class="icon">
-                                <i class="ti-bookmark-alt"></i>
-                            </div>
-                            <div class="info">
-                                <h4>Enterprises Company <br>Profile</h4>
-                                <p>
-                                    <strong>
-                                        <a style="border-radius: 5px;font-weight: 600;letter-spacing: 0.5px;font-size: 16px;color: #EF7504;border: 0px;padding: 0px;background: transparent;" target="_blank" href="https://new.riversidefilters.co.ke/uploads/CHL_SMALL_BUSINESS_PROFILE.pdf">
-                                            Download This Document
-                                        </a>
-                                    </strong>
-                                </p>
-                            </div>
+                            <a target="_blank" href="https://new.riversidefilters.co.ke/uploads/CHL_OFFICIAL_PROFILE.pdf">
+                                <div class="DownloadStyle">
+                                    <div>
+                                        <img src="assets/img/pdf.png" class="PdfImage" />
+                                    </div>
+                                    <div>
+                                        <h4 style="font-weight:600">Large Companies Profile</h4>
+                                        <p>
+                                            Click the button to download this document
+                                        </p>
+                                    </div>
+                                </div>
+                            </a>
                         </div>
+
                         <div class="item">
-                            <div class="icon">
-                                <i class="ti-id-badge"></i>
-                            </div>
-                            <div class="info">
-                                <h4>Small Businesses Company Profile</h4>
-                                <p>
-                                    <strong>
-                                        <a style="border-radius: 5px;font-weight: 600;letter-spacing: 0.5px;font-size: 16px;color: #EF7504;border: 0px;padding: 0px;background: transparent;" target="_blank" href="https://new.riversidefilters.co.ke/uploads/CHL_SMALL_BUSINESS_PROFILE.pdf">
-                                            Download This Document
-                                        </a>
-                                    </strong>
-                                </p>
-                            </div>
+                            <a target="_blank" href="https://new.riversidefilters.co.ke/uploads/CHL_SMALL_BUSINESS_PROFILE.pdf">
+                                <div class="DownloadStyle">
+                                    <div>
+                                        <img src="assets/img/pdf.png" class="PdfImage" />
+                                    </div>
+                                    <div>
+                                        <h4 style="font-weight:600">Small Businesses Company Profile</h4>
+                                        <p>
+                                            Click the button to download this document
+                                        </p>
+                                    </div>
+                                </div>
+                            </a>
                         </div>
+
                     </div>
                 </div>
             </div>
@@ -261,13 +243,13 @@
                         <div class="icon">
                             <img src="assets/img/vid.png" class="ServiceIcon" />
                         </div>
-                        <h4><a href="service.php?id=reels" style="color:white;">Short Reels, Videography & Photography</a></h4>
+                        <h4><a href="videos.php" style="color:white;">Short Reels, Videography & Photography</a></h4>
                         <p style="color:white;">
                             We understand that great content is the backbone of successful marketing. Whether it's blog writing, SEO-optimized articles,
                             or eye-catching videos and infographics, we ensure your message is communicated effectively across platforms. Let us help you
                             tell your story in a way that resonates, captivates, and converts.
                         </p>
-                        <a href="service.php?id=reels">Read more</a>
+                        <a href="videos.php">Read more</a>
                     </div>
                 </div>
                 <!-- End Single Item -->
@@ -277,13 +259,13 @@
                         <div class="icon">
                             <img src="assets/img/seo.png" class="ServiceIcon" />
                         </div>
-                        <h4><a href="service.php?id=web#seo" style="color:white;">Search Engine Optimization</a></h4>
+                        <h4><a href="web.php?id=web#seo" style="color:white;">Search Engine Optimization</a></h4>
                         <p style="color:white;">
                             Our SEO services are designed to increase your website's visibility, drive organic traffic, and improve your search rankings.
                             Through a combination of on-page optimization, keyword research, and quality backlinks, we ensure your site is easily found by
                             potential customers.
                         </p>
-                        <a href="service.php?id=web#seo">Read more</a>
+                        <a href="web.php?id=web#seo">Read more</a>
                     </div>
                 </div>
                 <!-- End Single Item -->
@@ -295,13 +277,13 @@
                         <div class="icon">
                             <img src="assets/img/web.png" class="ServiceIcon" />
                         </div>
-                        <h4><a href="service.php?id=web" style="color:white;">Website Development</a></h4>
+                        <h4><a href="web.php?id=web" style="color:white;">Website Development</a></h4>
                         <p style="color:white;">
                             Our website development services focus on creating custom websites that reflect your brand's identity while providing an excellent
                             user experience. Whether you need a simple landing page or a fully-fledged e-commerce site, we ensure your website is responsive,
                             fast, and designed to convert visitors into customers.
                         </p>
-                        <a href="service.php?id=web">Read more</a>
+                        <a href="web.php?id=web">Read more</a>
                     </div>
                 </div>
                 <!-- End Single Item -->
@@ -311,14 +293,14 @@
                         <div class="icon">
                             <img src="assets/img/out.png" class="ServiceIcon" />
                         </div>
-                        <h4><a href="service.php?id=outdoor" style="color:white;">Outdoor Marketing</a></h4>
+                        <h4><a href="outdoor.php?id=outdoor" style="color:white;">Outdoor Marketing</a></h4>
                         <p style="color:white;">
                             Our outdoor marketing services include a dedicated sales team that engages directly with potential customers, ensuring personal
                             interactions that drive conversions. Additionally, we offer a network of flyer distributors to deliver targeted messages to your
                             audience's doorstep, increasing brand awareness in key locations. Our exclusive Movable Billboards provide a unique and
                             cost-effective way to advertise on the go, reaching high-traffic areas and maximizing exposure.
                         </p>
-                        <a href="service.php?id=outdoor">Read more</a>
+                        <a href="outdoor.php?id=outdoor">Read more</a>
                     </div>
                 </div>
                 <!-- End Single Item -->
@@ -382,11 +364,11 @@
                     </li>
                     <li class="fun-fact">
                         <div class="CounterArea">
-                            <div class="timer" data-to="50" data-speed="5000"></div><span>+</span>
+                            <div class="timer" data-to="46" data-speed="5000"></div>
                         </div>
                         <span class="medium">Successful Projects</span>
                         <p>
-                            With over 50 successful projects delivered, we have the experience and proven track record to turn your marketing vision into reality. Our team applies innovative strategies and industry best practices to ensure each project achieves its objectives and exceeds expectations. Whether it's a brand refresh, a digital marketing campaign, or a complete marketing overhaul, we guarantee exceptional results. Let us help you achieve your goals.
+                            With over 46 successful projects delivered, we have the experience and proven track record to turn your marketing vision into reality. Our team applies innovative strategies and industry best practices to ensure each project achieves its objectives and exceeds expectations. Whether it's a brand refresh, a digital marketing campaign, or a complete marketing overhaul, we guarantee exceptional results. Let us help you achieve your goals.
                         </p>
                     </li>
                 </ul>
@@ -429,6 +411,13 @@
 <div class="chose-us-area top-border reverse default-padding">
     <div class="container">
         <div class="row">
+            <div class="col-md-8 col-md-offset-2">
+                <div class="site-heading text-center">
+                    <h2>Donwload Our Company Profiles</h2>
+                </div>
+            </div>
+        </div>
+        <div class="row">
 
             <div class="thumb col-md-6">
                 <img src="assets/img/down1.jpg" alt="">
@@ -458,36 +447,146 @@
                 <div class="tab-content tab-content-info">
                     <div id="tab1" class="tab-pane fade active in">
                         <div class="info title">
-                            <p>
-                                Click the links below to download the files:
-                            </p>
+
                             <ul class="MyUl">
-                                <li><a target="_blank" href="https://new.riversidefilters.co.ke/uploads/CHL_OFFICIAL_PROFILE.pdf">CHL Official Profile</a></li>
-                                <li><a target="_blank" href="https://new.riversidefilters.co.ke/uploads/CHL_SMALL_BUSINESS_PROFILE.pdf">Small Business Packages</a></li>
-                                <li><a target="_blank" href="https://new.riversidefilters.co.ke/uploads/CHL_WEB_DEV_PACKAGES.pdf">Website Development Package</a></li>
-                                <li><a target="_blank" href="https://new.riversidefilters.co.ke/uploads/CHL_MARKETING_PACKAGES.pdf">Website Marketing Package</a></li>
+                                <li>
+                                    <a target="_blank" href="https://new.riversidefilters.co.ke/uploads/CHL_OFFICIAL_PROFILE.pdf">
+                                        <div class="DownloadStyle">
+                                            <div>
+                                                <img src="assets/img/pdf.png" class="PdfImage" />
+                                            </div>
+                                            <div>
+                                                <h4 style="font-weight:700;margin-bottom: 4px;">CHL Official Profile</h4>
+                                                <p style="font-weight: 400;font-size: 1em;">
+                                                    Click the button to download this document
+                                                </p>
+                                            </div>
+                                        </div>
+                                    </a>
+                                </li>
+
+                                <li>
+                                    <a target="_blank" href="https://new.riversidefilters.co.ke/uploads/CHL_SMALL_BUSINESS_PROFILE.pdf">
+                                        <div class="DownloadStyle">
+                                            <div>
+                                                <img src="assets/img/pdf.png" class="PdfImage" />
+                                            </div>
+                                            <div>
+                                                <h4 style="font-weight:700;margin-bottom: 4px;">Small Business Packages</h4>
+                                                <p style="font-weight: 400;font-size: 1em;">
+                                                    Click the button to download this document
+                                                </p>
+                                            </div>
+                                        </div>
+                                    </a>
+                                </li>
+
+                                <li>
+                                    <a target="_blank" href="https://new.riversidefilters.co.ke/uploads/CHL_WEB_DEV_PACKAGES.pdf">
+                                        <div class="DownloadStyle">
+                                            <div>
+                                                <img src="assets/img/pdf.png" class="PdfImage" />
+                                            </div>
+                                            <div>
+                                                <h4 style="font-weight:700;margin-bottom: 4px;">Website Development Package</h4>
+                                                <p style="font-weight: 400;font-size: 1em;">
+                                                    Click the button to download this document
+                                                </p>
+                                            </div>
+                                        </div>
+                                    </a>
+                                </li>
+
+                                <li>
+                                    <a target="_blank" href="https://new.riversidefilters.co.ke/uploads/CHL_MARKETING_PACKAGES.pdf">
+                                        <div class="DownloadStyle">
+                                            <div>
+                                                <img src="assets/img/pdf.png" class="PdfImage" />
+                                            </div>
+                                            <div>
+                                                <h4 style="font-weight:700;margin-bottom: 4px;">Website Marketing Package</h4>
+                                                <p style="font-weight: 400;font-size: 1em;">
+                                                    Click the button to download this document
+                                                </p>
+                                            </div>
+                                        </div>
+                                    </a>
+                                </li>
                             </ul>
                         </div>
                     </div>
                     <div id="tab2" class="tab-pane fade">
                         <div class="info title">
-                            <p>
-                                Click the links below to download the files:
-                            </p>
                             <ul class="MyUl">
-                                <li><a target="_blank" href="https://new.riversidefilters.co.ke/uploads/CHL_VIDEOGRAPHY_PACKAGES.pdf">CHL Videography Packages</a></li>
-                                <li><a target="_blank" href="https://new.riversidefilters.co.ke/uploads/CHL_TRAINING_PACKAGES.pdf">Training Packages</a></li>
+                                <li>
+                                    <a target="_blank" href="https://new.riversidefilters.co.ke/uploads/CHL_VIDEOGRAPHY_PACKAGES.pdf">
+                                        <div class="DownloadStyle">
+                                            <div>
+                                                <img src="assets/img/pdf.png" class="PdfImage" />
+                                            </div>
+                                            <div>
+                                                <h4 style="font-weight:700;margin-bottom: 4px;">CHL Videography Packages</h4>
+                                                <p style="font-weight: 400;font-size: 1em;">
+                                                    Click the button to download this document
+                                                </p>
+                                            </div>
+                                        </div>
+                                    </a>
+                                </li>
+
+                                <li>
+                                    <a target="_blank" href="https://new.riversidefilters.co.ke/uploads/CHL_TRAINING_PACKAGES.pdf">
+                                        <div class="DownloadStyle">
+                                            <div>
+                                                <img src="assets/img/pdf.png" class="PdfImage" />
+                                            </div>
+                                            <div>
+                                                <h4 style="font-weight:700;margin-bottom: 4px;">Training Packages</h4>
+                                                <p style="font-weight: 400;font-size: 1em;">
+                                                    Click the button to download this document
+                                                </p>
+                                            </div>
+                                        </div>
+                                    </a>
+                                </li>
                             </ul>
                         </div>
                     </div>
                     <div id="tab3" class="tab-pane fade">
                         <div class="info title">
-                            <p>
-                                Click the links below to download the files:
-                            </p>
                             <ul class="MyUl">
-                                <li><a target="_blank" href="https://new.riversidefilters.co.ke/uploads/CHL_SALES_PROFILE.pdf">Sales Force Profile</a></li>
-                                <li><a target="_blank" href="https://new.riversidefilters.co.ke/uploads/CHL_CONNECT_KENYA.pdf">Connect Kenya</a></li>
+                                <li>
+                                    <a target="_blank" href="https://new.riversidefilters.co.ke/uploads/CHL_SALES_PROFILE.pdf">
+                                        <div class="DownloadStyle">
+                                            <div>
+                                                <img src="assets/img/pdf.png" class="PdfImage" />
+                                            </div>
+                                            <div>
+                                                <h4 style="font-weight:700;margin-bottom: 4px;">Sales Force Profile</h4>
+                                                <p style="font-weight: 400;font-size: 1em;">
+                                                    Click the button to download this document
+                                                </p>
+                                            </div>
+                                        </div>
+                                    </a>
+                                </li>
+
+                                <li>
+                                    <a target="_blank" href="https://new.riversidefilters.co.ke/uploads/CHL_CONNECT_KENYA.pdf">
+                                        <div class="DownloadStyle">
+                                            <div>
+                                                <img src="assets/img/pdf.png" class="PdfImage" />
+                                            </div>
+                                            <div>
+                                                <h4 style="font-weight:700;margin-bottom: 4px;">Connect Kenya Profile</h4>
+                                                <p style="font-weight: 400;font-size: 1em;">
+                                                    Click the button to download this document
+                                                </p>
+                                            </div>
+                                        </div>
+                                    </a>
+                                </li>
+
                             </ul>
                         </div>
                     </div>
@@ -498,169 +597,9 @@
 </div>
 <!-- End Downloads Us -->
 
-<!-- Star Portfolio -->
-<div class="portfolio-area default-padding">
-    <div class="container">
-        <div class="row">
-            <div class="col-md-8 col-md-offset-2">
-                <div class="site-heading text-center">
-                    <h2>Our Videos</h2>
-                    <p>
-                        Learn with Us: Expert Marketing Tips & Insights
-                    </p>
-                </div>
-            </div>
-        </div>
-        <div class="portfolio-items-area text-center">
-            <div class="row">
-                <div class="col-md-12 portfolio-content">
-                    <div class="mix-item-menu">
-                        <button class="active" data-filter="*">All</button>
-                        <button data-filter=".featured">Featured Marketing Videos</button>
-                        <button data-filter=".reels">Client Reels</button>
-                        <button data-filter=".vids">New Videos</button>
-                    </div>
-                    <!-- End Mixitup Nav-->
-
-                    <div class="row magnific-mix-gallery masonary ">
-                        <div id="portfolio-grid" class="row">
-                            <div class="col-lg-3 col-md-3 col-sm-12 col-12  featured reels">
-                                <div class="item-effect">
-
-                                    <div class="youtube-short">
-                                        <iframe
-                                            width="100%"
-                                            height="500"
-                                            style="border-radius: 10px;"
-                                            src="https://youtube.com/embed/Nq0kN7-sxuk?si=7gyO4zsL2Gv3QXuh"
-                                            frameborder="0"
-                                            allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture"
-                                            allowfullscreen
-                                            loading="lazy">
-                                        </iframe>
-                                        <div class="CaptionArea">
-                                            <p>
-                                                HAS YOUR SALES STAGNATED? YOU NEED TO HEAR THIS STORY!
-                                            </p>
-                                            <img src="assets/img/rec.png" />
-                                        </div>
-                                    </div>
-
-                                </div>
-                            </div>
-
-                            <div class="col-lg-3 col-md-3 col-sm-12 col-12  reels vids">
-                                <div class="item-effect">
-
-                                    <div class="youtube-short">
-                                        <iframe
-                                            width="100%"
-                                            height="500"
-                                            style="border-radius: 10px;"
-                                            src="https://youtube.com/embed/7ArLNwPCRUg?si=Ml3hOuCFpf_EOr2a"
-                                            frameborder="0"
-                                            allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture"
-                                            allowfullscreen
-                                            loading="lazy">
-                                        </iframe>
-                                        <div class="CaptionArea">
-                                            <p>
-                                                MARKETING & TYPES OF BUSINESSES
-                                            </p>
-                                            <img src="assets/img/rec.png" />
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-
-                            <div class="col-lg-3 col-md-3 col-sm-12 col-12   featured">
-                                <div class="item-effect">
-
-                                    <div class="youtube-short">
-                                        <iframe
-                                            width="100%"
-                                            height="500"
-                                            style="border-radius: 10px;"
-                                            src="https://youtube.com/embed/08qmByDB5Yc?si=rAQFHjWqAkG28z29"
-                                            frameborder="0"
-                                            allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture"
-                                            allowfullscreen
-                                            loading="lazy">
-                                        </iframe>
-                                        <div class="CaptionArea">
-                                            <p>
-                                                DO YOU NEED A WEBSITE FOR YOUR BUSINESS?
-
-                                            </p>
-                                            <img src="assets/img/rec.png" />
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-
-                            <div class="col-lg-3 col-md-3 col-sm-12 col-12  reels ">
-                                <div class="item-effect">
-
-                                    <div class="youtube-short">
-                                        <iframe
-                                            width="100%"
-                                            height="500"
-                                            style="border-radius: 10px;"
-                                            src="https://youtube.com/embed/Hrd8Xsu9NHM?si=P3cUSE0LwX4AhRJv"
-                                            frameborder="0"
-                                            allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture"
-                                            allowfullscreen
-                                            loading="lazy">
-                                        </iframe>
-                                        <div class="CaptionArea">
-                                            <p>
-                                                WHY YOUR BUSINESS NEEDS DIGITAL MARKETING!
-
-                                            </p>
-                                            <img src="assets/img/rec.png" />
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-
-                            <div class="col-lg-3 col-md-3 col-sm-12 col-12  featured reels">
-                                <div class="item-effect">
-
-                                    <div class="youtube-short">
-                                        <iframe
-                                            width="100%"
-                                            height="500"
-                                            style="border-radius: 10px;"
-                                            src="https://youtube.com/embed/Nq0kN7-sxuk?si=7gyO4zsL2Gv3QXuh"
-                                            frameborder="0"
-                                            allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture"
-                                            allowfullscreen
-                                            loading="lazy">
-                                        </iframe>
-                                        <div class="CaptionArea">
-                                            <p>
-                                                HAS YOUR SALES STAGNATED? YOU NEED TO HEAR THIS STORY!
-
-                                            </p>
-                                            <img src="assets/img/rec.png" />
-                                        </div>
-                                    </div>
-
-                                </div>
-                            </div>
-
-
-
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </div>
-</div>
-<!-- End Portfolio -->
-
-
+<?php
+include_once 'reels.php'; 
+?>
 
 <!-- Start Testimonials -->
 <div class="testimonials-area default-padding bg-gray">
@@ -680,11 +619,13 @@
                 <div class="testimonial-items testimonial-carousel owl-carousel owl-theme">
                     <!-- Single Item -->
                     <div class="item">
-
-                        <div class="info">
+                        <div class="thumb">
+                            <img src="assets/img/fem.png" alt="Thumb">
+                        </div>
+                        <div class="info ReviewCard">
                             <h4>Dr. Rose Wangeci</h4>
                             <span>Founder, Riverside Water Defluoridation Consultants</span>
-                            <p>
+                            <p class="ReviewTag">
                                 Working with this team has been a game-changer for Riverside Water Defluoridation Consultants. Their expertise in social media management, video production, and advertising has significantly boosted our online presence and helped us reach more people with our message. The creativity and professionalism they bring to the table are unmatched. Thanks to their efforts, we are now engaging with our audience in ways we never thought possible.
                             </p>
                         </div>
@@ -693,11 +634,13 @@
 
                     <!-- Single Item -->
                     <div class="item">
-
-                        <div class="info">
+                        <div class="thumb">
+                            <img src="assets/img/fem.png" alt="Thumb">
+                        </div>
+                        <div class="info ReviewCard">
                             <h4>Mrs. Rosemary Murugi</h4>
                             <span>Managing Director, Rockmix International Limited</span>
-                            <p>
+                            <p class="ReviewTag">
                                 Partnering with this agency has transformed how Rockmix International Limited connects with our customers. From managing our social media to creating impactful short videos and running effective ad campaigns, their work has driven real results for our brand. We've seen increased awareness and engagement, and their dedication to our success is evident in every project. They truly understand our vision and help us bring it to life.
                             </p>
                         </div>
@@ -706,12 +649,14 @@
 
                     <!-- Single Item -->
                     <div class="item">
-
-                        <div class="info">
+                        <div class="thumb">
+                            <img src="assets/img/man.png" alt="Thumb">
+                        </div>
+                        <div class="info ReviewCard">
                             <h4>Mr. Bill Allan</h4>
                             <span>Director, Clone Technologies</span>
-                            <p>
-                                Clone Technologies has seen incredible results from this agency's social media management, creative videos, and eye-catching graphic designs. Their work has been instrumental in boosting our brand's online visibility.
+                            <p class="ReviewTag">
+                                Clone Technologies has experienced outstanding results thanks to this agency's exceptional social media management, innovative video content, and visually captivating graphic designs. Their expertise and creative efforts have played a significant role in elevating our brand's online visibility, helping us connect with our audience more effectively and establish a stronger digital presence.
                             </p>
                         </div>
                     </div>
@@ -719,12 +664,14 @@
 
                     <!-- Single Item -->
                     <div class="item">
-
-                        <div class="info">
+                        <div class="thumb">
+                            <img src="assets/img/fem.png" alt="Thumb">
+                        </div>
+                        <div class="info ReviewCard">
                             <h4>Mrs. Juliet Chege</h4>
                             <span>Director, Solid and Noble</span>
-                            <p>
-                                Solid and Noble's digital presence has been elevated by this agency's excellent graphic designs, short videos, and social media management. They truly understand how to bring a brand's story to life.
+                            <p class="ReviewTag">
+                                Solid and Noble's digital presence has reached new heights thanks to this agency's exceptional graphic designs, engaging short videos, and strategic social media management. Their ability to understand our brand's story and bring it to life has been truly impressive, making them an invaluable partner in enhancing our online visibility and audience connection.
                             </p>
                         </div>
                     </div>
@@ -732,12 +679,14 @@
 
                     <!-- Single Item -->
                     <div class="item">
-
-                        <div class="info">
+                        <div class="thumb">
+                            <img src="assets/img/man.png" alt="Thumb">
+                        </div>
+                        <div class="info ReviewCard">
                             <h4>Mr. Oliver Otieno</h4>
                             <span>Director, Meals Moto</span>
-                            <p>
-                                Meals Moto's vibrant graphics, engaging videos, and professional social media management have transformed our marketing. Their creative touch has brought our brand closer to our audience.
+                            <p class="ReviewTag">
+                                Meals Moto's eye-catching graphics, captivating videos, and expertly managed social media campaigns have revolutionized our marketing efforts. Their creative approach and attention to detail have not only enhanced our brand's image but also strengthened our connection with our audience, making our message more impactful and memorable.
                             </p>
                         </div>
                     </div>
@@ -745,12 +694,14 @@
 
                     <!-- Single Item -->
                     <div class="item">
-
-                        <div class="info">
+                        <div class="thumb">
+                            <img src="assets/img/fem.png" alt="Thumb">
+                        </div>
+                        <div class="info ReviewCard">
                             <h4>Miss Shiryl Beryl</h4>
                             <span>Director, The Moving Squad Limited</span>
-                            <p>
-                                The Moving Squad Limited's online presence has grown immensely thanks to this agency's brilliant graphic designs and strategic ad campaigns. Their work has been a driving force behind our growth.
+                            <p class="ReviewTag">
+                                The Moving Squad Limited's online presence has experienced remarkable growth thanks to this agency's exceptional graphic designs and expertly crafted ad campaigns. Their innovative strategies and creative execution have been a driving force behind our success, helping us reach new audiences and achieve sustained growth.
                             </p>
                         </div>
                     </div>
@@ -758,12 +709,14 @@
 
                     <!-- Single Item -->
                     <div class="item">
-
-                        <div class="info">
+                        <div class="thumb">
+                            <img src="assets/img/man.png" alt="Thumb">
+                        </div>
+                        <div class="info ReviewCard">
                             <h4>Mr. Denis Mwabu</h4>
                             <span>Head of Marketing, Jambopay Markets</span>
-                            <p>
-                                The five commercial ads created by this agency for Jambopay Markets were phenomenal! They perfectly captured our brand's essence and helped us reach a broader audience effectively.
+                            <p class="ReviewTag">
+                                The five commercial ads crafted by this agency for Jambopay Markets were absolutely phenomenal! Each ad brilliantly captured the essence of our brand, delivering our message with creativity and precision. Their work not only resonated with our target audience but also significantly expanded our reach, making a lasting impact on our brand's visibility and success.
                             </p>
                         </div>
                     </div>
@@ -772,12 +725,15 @@
 
                     <!-- Single Item -->
                     <div class="item">
-
-                        <div class="info">
+                        <div class="thumb">
+                            <img src="assets/img/man.png" alt="Thumb">
+                        </div>
+                        <div class="info ReviewCard">
                             <h4>Mr. Moses Mulama</h4>
                             <span>Head of Marketing, Royal Mabati Factory Limited</span>
-                            <p>
-                                Their team brought our marketing campaigns to life with striking graphic designs, impactful videos, and comprehensive digital marketing training. Their creativity and strategic approach have been instrumental in elevating our brand.
+                            <p class="ReviewTag">
+
+                                Their team has truly brought our marketing campaigns to life with their striking graphic designs, impactful videos, and comprehensive digital marketing training. Each element of their work reflects a deep understanding of our brand's identity and goals, ensuring that our message resonates with our audience. Their unmatched creativity, combined with a strategic and results-driven approach has been instrumental.
                             </p>
                         </div>
                     </div>
@@ -785,12 +741,15 @@
 
                     <!-- Single Item -->
                     <div class="item">
-
-                        <div class="info">
+                        <div class="thumb">
+                            <img src="assets/img/man.png" alt="Thumb">
+                        </div>
+                        <div class="info ReviewCard">
                             <h4>Mr. Francis</h4>
                             <span>Franny Networks</span>
-                            <p>
-                                The creative graphic designs this agency developed for Franny Networks perfectly captured our vision. Their attention to detail and professionalism were impressive, making them a fantastic partner for our business.
+                            <p class="ReviewTag">
+
+                                The creative graphic designs crafted by this agency for Franny Networks perfectly encapsulated our vision and brought it to life. Their meticulous attention to detail, coupled with their high level of professionalism, exceeded our expectations at every turn. Their ability to understand our needs and translate them into stunning visuals made them an invaluable partner for our business.
                             </p>
                         </div>
                     </div>
@@ -798,11 +757,13 @@
 
                     <!-- Single Item -->
                     <div class="item">
-
-                        <div class="info">
+                        <div class="thumb">
+                            <img src="assets/img/fem.png" alt="Thumb">
+                        </div>
+                        <div class="info ReviewCard">
                             <h4>Miss Mellan Kiptala</h4>
                             <span>Vilcom Networks</span>
-                            <p>
+                            <p class="ReviewTag">
                                 Vilcom Networks has reached new heights in visibility thanks to this agency's stellar social media management, video production, and advertising expertise. They've been instrumental in helping us stand out in a competitive market.
                             </p>
                         </div>
@@ -811,11 +772,13 @@
 
                     <!-- Single Item -->
                     <div class="item">
-
-                        <div class="info">
+                        <div class="thumb">
+                            <img src="assets/img/man.png" alt="Thumb">
+                        </div>
+                        <div class="info ReviewCard">
                             <h4>Mr. Denis Moroga</h4>
                             <span>Managing Director, Moroga Wangwi & Associates Advocates</span>
-                            <p>
+                            <p class="ReviewTag">
                                 Moroga Wangwi & Associates Advocates required a modern and functional website, and this agency exceeded our expectations. Their work was seamless, and the end result reflects professionalism and quality. Highly recommend their services!
                             </p>
                         </div>
@@ -824,11 +787,13 @@
 
                     <!-- Single Item -->
                     <div class="item">
-
-                        <div class="info">
+                        <div class="thumb">
+                            <img src="assets/img/man.png" alt="Thumb">
+                        </div>
+                        <div class="info ReviewCard">
                             <h4>Mr. Joel Maina</h4>
                             <span>Managing Director, The Woodforest Schools</span>
-                            <p>
+                            <p class="ReviewTag">
                                 We needed a professional website to showcase The Woodforest Schools, and this team delivered exactly that. Their attention to detail, creativity, and understanding of our needs were outstanding. The website has been a game-changer for us.
                             </p>
                         </div>
@@ -837,11 +802,13 @@
 
                     <!-- Single Item -->
                     <div class="item">
-
-                        <div class="info">
+                        <div class="thumb">
+                            <img src="assets/img/fem.png" alt="Thumb">
+                        </div>
+                        <div class="info ReviewCard">
                             <h4>Miss Leah Njogu</h4>
                             <span>Managing Director, Ruby Smiles Dental Clinic</span>
-                            <p>
+                            <p class="ReviewTag">
                                 Ruby Smiles Dental Clinic has benefited greatly from this agency's social media management and video production. Their creativity and advertising strategies have helped us reach a wider audience and build trust with our clients. They're truly a valuable partner for our business.
                             </p>
                         </div>
@@ -850,11 +817,13 @@
 
                     <!-- Single Item -->
                     <div class="item">
-
-                        <div class="info">
+                        <div class="thumb">
+                            <img src="assets/img/man.png" alt="Thumb">
+                        </div>
+                        <div class="info ReviewCard">
                             <h4>Mr. Hussein</h4>
                             <span>Managing Director, Laundro Hub</span>
-                            <p>
+                            <p class="ReviewTag">
                                 The team's efforts in managing Laundro Hub's social media, creating compelling videos, and running strategic ad campaigns have helped us attract more customers and strengthen our brand. They understand our goals and deliver beyond expectations every time.
                             </p>
                         </div>
@@ -863,11 +832,13 @@
 
                     <!-- Single Item -->
                     <div class="item">
-
-                        <div class="info">
+                        <div class="thumb">
+                            <img src="assets/img/man.png" alt="Thumb">
+                        </div>
+                        <div class="info ReviewCard">
                             <h4>Mr. Lawrence</h4>
                             <span>Managing Director, Aquatadas Motors</span>
-                            <p>
+                            <p class="ReviewTag">
                                 Aquatadas Motors has seen remarkable improvements in customer engagement since we partnered with this agency. Their innovative social media strategies, high-quality video production, and effective advertising have made a big difference for our car yard. I'm grateful for their commitment to helping us succeed.
                             </p>
                         </div>
@@ -876,11 +847,13 @@
 
                     <!-- Single Item -->
                     <div class="item">
-
-                        <div class="info">
+                        <div class="thumb">
+                            <img src="assets/img/man.png" alt="Thumb">
+                        </div>
+                        <div class="info ReviewCard">
                             <h4>Mr. John Waironyi</h4>
                             <span>Managing Director, Netify Networks</span>
-                            <p>
+                            <p class="ReviewTag">
                                 Netify Networks has significantly grown its online presence thanks to this agency's exceptional social media management, creative short videos, and targeted advertising. They've helped us connect with more customers and position ourselves as a trusted internet service provider. Their expertise and dedication have been invaluable.
                             </p>
                         </div>
@@ -897,7 +870,6 @@
     </div>
 </div>
 <!-- End Testimonials -->
-
 
 <!-- Start Contact Area -->
 <div class="contact-area default-padding">
@@ -998,7 +970,7 @@
                     <div class="icon">
                         <i class="ti-email"></i>
                     </div>
-                    <h2>Let's lalk about your idea</h2>
+                    <h2>Let's talk about your idea</h2>
                     <p>
                         Let's collaborate to turn your vision into reality with tailored marketing strategies that deliver real results.
                     </p>
@@ -1028,7 +1000,7 @@
                         <div class="col-md-12">
                             <div class="row">
                                 <div class="form-group comments">
-                                    <textarea class="form-control" id="comments" name="comments" placeholder="Tell Us About Project *"></textarea>
+                                    <textarea class="form-control" id="comments" name="comments" placeholder="Tell Us About Your Project *"></textarea>
                                 </div>
                             </div>
                         </div>
@@ -1061,9 +1033,6 @@
             <div class="col-md-8 col-md-offset-2">
                 <div class="site-heading text-center">
                     <h2>Latest Blog</h2>
-                    <p>
-                        While mirth large of on front. Ye he greater related adapted proceed entered an. Through it examine express promise no. Past add size game cold girl off how old
-                    </p>
                 </div>
             </div>
         </div>
@@ -1113,7 +1082,6 @@
                             <div class="meta">
                                 <ul>
                                     <li>25 Dec, 2024</li>
-                                    <li><a href="single.php?id=2"><i class="fas fa-comments"></i> 5 Comments</a></li>
                                 </ul>
                             </div>
                             <div class="title">

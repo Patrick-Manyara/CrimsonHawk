@@ -114,8 +114,8 @@
                             <ul class="dropdown-menu">
                                 <li><a href="service.php?id=social">Social Media Advertising</a></li>
                                 <li><a href="service.php?id=sms">SMS Marketing</a></li>
-                                <li><a href="service.php?id=reels">Content Marketing</a></li>
-                                <li><a href="service.php?id=web">Website Development</a></li>
+                                <li><a href="videos.php">Content Marketing</a></li>
+                                <li><a href="web.php?id=web">Website Development</a></li>
                                 <li><a href="service.php?id=email">Email Marketing</a></li>
                                 <li><a href="service.php?id=brand">Brand Development</a></li>
                                 <li><a href="service.php?id=whatsapp">WhatsApp Marketing</a></li>
@@ -126,22 +126,22 @@
                         <li class="dropdown">
                             <a class="dropdown-toggle" data-toggle="dropdown">Outdoor Marketing</a>
                             <ul class="dropdown-menu">
-                                <li><a href="service.php?id=outdoor">Movable Billboards</a></li>
-                                <li><a href="service.php?id=sales">Sales Team</a></li>
-                                <li><a href="service.php?id=sales">Fliers Distribution Team</a></li>
+                                <li><a href="outdoor.php?id=outdoor">Movable Billboards</a></li>
+                                <li><a href="outdoor.php?id=sales">Sales Team</a></li>
+                                <li><a href="outdoor.php?id=sales">Fliers Distribution Team</a></li>
                             </ul>
                         </li>
 
                         <li class="dropdown">
                             <a class="dropdown-toggle" data-toggle="dropdown">Courses</a>
                             <ul class="dropdown-menu">
-                                <li><a href="service.php?id=workshops">Digital Marketing Training</a></li>
-                                <li><a href="service.php?id=workshops">Advanced Digital Strategies</a></li>
-                                <li><a href="service.php?id=workshops">Certification Programs</a></li>
+                                <li><a href="training.php?id=workshops">Digital Marketing Training</a></li>
+                                <li><a href="training.php?id=workshops">Advanced Digital Strategies</a></li>
+                                <li><a href="training.php?id=workshops">Certification Programs</a></li>
                             </ul>
                         </li>
 
-                        <li><a href="service.php?id=reels">Videos</a></li>
+                        <li><a href="videos.php">Videos</a></li>
                         <li><a href="blogs.php">Blogs</a></li>
                         <li><a href="contact.php">Contact Us</a></li>
 

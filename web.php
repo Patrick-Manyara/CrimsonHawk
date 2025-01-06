@@ -145,13 +145,13 @@ include_once 'header.php'; ?>
                             </div>
                             <ul>
                                 <li>
-                                    <a target="_blank" href="https://new.riversidefilters.co.ke/uploads/CHL_OFFICIAL_PROFILE.pdf">
+                                    <a target="_blank" href="https://new.riversidefilters.co.ke/uploads/CHL_WEB_DEV_PACKAGES.pdf">
                                         <div class="DownloadStyle">
                                             <div>
                                                 <img src="assets/img/pdf.png" class="PdfImage" />
                                             </div>
                                             <div>
-                                                <h4 class="ServiceDownloadH1">Large Companies Profile</h4>
+                                                <h4 class="ServiceDownloadH1">Website Development Package</h4>
                                                 <p class="ServiceDownloadPee">
                                                     Click the button to download this document
                                                 </p>
@@ -161,13 +161,13 @@ include_once 'header.php'; ?>
                                 </li>
 
                                 <li>
-                                    <a target="_blank" href="https://new.riversidefilters.co.ke/uploads/CHL_OFFICIAL_PROFILE.pdf">
+                                    <a target="_blank" href="https://new.riversidefilters.co.ke/uploads/CHL_MARKETING_PACKAGES.pdf">
                                         <div class="DownloadStyle">
                                             <div>
                                                 <img src="assets/img/pdf.png" class="PdfImage" />
                                             </div>
                                             <div>
-                                                <h4 class="ServiceDownloadH1">Small Businesses Company Profile</h4>
+                                                <h4 class="ServiceDownloadH1">Website Marketing Package</h4>
                                                 <p class="ServiceDownloadPee">
                                                     Click the button to download this document
                                                 </p>
@@ -175,7 +175,6 @@ include_once 'header.php'; ?>
                                         </div>
                                     </a>
                                 </li>
-
                             </ul>
                         </div>
                         <div class="sidebar-item archives">

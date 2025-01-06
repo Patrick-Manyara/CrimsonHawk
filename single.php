@@ -228,12 +228,12 @@ include_once 'header.php'; ?>
 
     .info ul li {
         color: #000000;
-        font-size: 1.1em;
+        font-size: 1em;
     }
 
     ol {
         color: black;
-        font-size: 1.1em;
+        font-size: 1em;
     }
 
     table {

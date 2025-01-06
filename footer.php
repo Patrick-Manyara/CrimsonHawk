@@ -38,10 +38,10 @@
                     <h4 class="widget-title">Services</h4>
                     <ul>
                         <li><a href="service.php?id=lead">Lead Generation</a></li>
-                        <li><a href="service.php?id=outdoor">Movable Billboards</a></li>
-                        <li><a href="service.php?id=workshops">Digital Marketing Training</a></li>
+                        <li><a href="outdoor.php?id=outdoor">Movable Billboards</a></li>
+                        <li><a href="training.php?id=workshops">Digital Marketing Training</a></li>
                         <li><a href="service.php?id=social">Social Media Management</a></li>
-                        <li><a href="service.php?id=sales">Sales Team</a></li>
+                        <li><a href="outdoor.php?id=sales">Sales Team</a></li>
                     </ul>
 
                 </div>
@@ -100,7 +100,7 @@
 
             <div class="footer-bottom text-center">
                 <div class="col-md-12 text-center">
-                    <p>
+                    <p style="color: #03492F;">
                         Copyright &copy; <?= date('Y') ?> All rights reserved. Crimson Hawk Limited
                     </p>
                 </div>
@@ -123,16 +123,18 @@
     }
 
     .MyItem1 {
-        height: 40em;
+        height: 45em;
     }
 
     .MyItem2 {
-        height: 46em;
+        height: 50em;
     }
 
     .MyUl li {
-        list-style: inside;
         margin: 5px 0px;
+        border: 1px solid #E0DADA;
+        padding: 4px;
+        border-radius: 5px;
     }
 
     .MyUl li a {
@@ -152,6 +154,7 @@
     .CaptionArea p {
         width: 90%;
         text-align: left;
+        font-size: 12px;
     }
 
     .CaptionArea img {
@@ -178,8 +181,8 @@
     }
 
     .MyAboutShadow::after {
-        background: #000000 none repeat scroll 0 0 !important;
-        opacity: 0.75 !important;
+        background: #03492F none repeat scroll 0 0 !important;
+        opacity: 0.9 !important;
     }
 
     .TeamImg {
@@ -217,6 +220,55 @@
         display: flex;
     }
 
+    .ReviewCard {
+        height: 250px;
+    }
+
+    .ReviewTag {
+        height: 160px;
+    }
+
+    .AboutBtn {
+        display: inline-block;
+        border: 1px solid #03492F;
+        padding: 10px 40px;
+        border-radius: 5px;
+        font-weight: 600;
+        letter-spacing: 0.5px;
+        font-size: 16px;
+        color: #FFFFFF;
+        background: #EF7504;
+    }
+
+    .AboutBtn i {
+        color: #03492F;
+        margin-right: 3px;
+        font-weight: 600;
+    }
+
+    .DownloadStyle {
+        display: flex;
+        align-items: flex-start;
+    }
+
+    .PdfImage {
+        width: 45px;
+        object-fit: cover;
+        margin-right: 10px;
+    }
+
+    .ServiceDownloadH1 {
+        font-weight: 600;
+        margin-bottom: 4px;
+        font-size: 14px;
+    }
+
+    .ServiceDownloadPee {
+        font-weight: 500;
+        font-size: 12px;
+        line-height: 16px;
+    }
+
     @media screen and (max-width:600px) {
         .CounterArea {
             justify-content: center;
@@ -227,6 +279,34 @@
             height: auto !important;
             padding: 10px;
         }
+
+        .TeamImg {
+            height: 40em;
+        }
+
+        .MyItem1 {
+            height: auto;
+        }
+
+        .MyItem2 {
+            height: auto;
+        }
+    }
+
+    /* Style for the placeholder text */
+    input::placeholder,
+    textarea::placeholder {
+        color: black;
+        /* Makes the placeholder text black */
+        text-align: center;
+        /* Centers the placeholder text */
+    }
+
+    /* Align the text inside the input and textarea */
+    input,
+    textarea {
+        text-align: center;
+        /* Centers the text in the input box */
     }
 </style>
 
