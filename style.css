@@ -1159,13 +1159,13 @@ body,
   }
 
   to {
-    transform: scale(1.2, 1.2);
+    transform: scale(1.1, 1.1);
   }
 }
 
 .carousel-inner .item > .slider-thumb {
-  -webkit-animation: zoom 20s;
-  animation: zoom 20s;
+  -webkit-animation: zoom 30;
+  animation: zoom 30;
 }
 
 .banner-area .carousel-zoom .slider-thumb {
