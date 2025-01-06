@@ -5,9 +5,6 @@
             <div class="col-md-8 col-md-offset-2">
                 <div class="site-heading text-center">
                     <h2>Our Videos</h2>
-                    <p>
-                        Learn with Us: Expert Marketing Tips & Insights
-                    </p>
                 </div>
             </div>
         </div>

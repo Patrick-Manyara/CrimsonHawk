@@ -715,9 +715,9 @@ nav.navbar.bootsnav.sticked .attr-nav.social li {
 }
 
 .site-heading {
-  margin-bottom: 60px;
+  /* margin-bottom: 60px; */
   overflow: hidden;
-  margin-top: -5px;
+  margin-top: 0px;
 }
 
 .site-heading.single {
