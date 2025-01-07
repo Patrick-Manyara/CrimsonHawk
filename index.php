@@ -624,7 +624,7 @@
 <!-- End Downloads Us -->
 
 <?php
-// include_once 'reels.php';
+include_once 'reels.php';
 ?>
 
 <!-- Start Testimonials -->
