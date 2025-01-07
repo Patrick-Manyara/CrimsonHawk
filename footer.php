@@ -1,3 +1,7 @@
+<a href="https://wa.me/+254708864076" class="whatsapp-float" target="_blank" aria-label="Chat with us on WhatsApp">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/6/6b/WhatsApp.svg" alt="WhatsApp Icon">
+</a>
+
 <!-- Start Footer -->
 <footer class="bg-dark default-padding text-light" style="background: #EF7504;">
     <div class="container">
@@ -291,22 +295,50 @@
         .MyItem2 {
             height: auto;
         }
+
+        .bg-cover {
+            background-position: left;
+        }
     }
 
-    /* Style for the placeholder text */
     input::placeholder,
     textarea::placeholder {
         color: black;
-        /* Makes the placeholder text black */
         text-align: center;
-        /* Centers the placeholder text */
     }
 
-    /* Align the text inside the input and textarea */
     input,
     textarea {
         text-align: center;
-        /* Centers the text in the input box */
+    }
+
+    .whatsapp-float {
+        position: fixed;
+        bottom: 70px;
+        right: 20px;
+        z-index: 1000;
+        background-color: #25D366;
+        border-radius: 50%;
+        box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        width: 60px;
+        height: 60px;
+        text-decoration: none;
+        transition: transform 0.3s ease, box-shadow 0.3s ease;
+    }
+
+    /* Icon styling */
+    .whatsapp-float img {
+        width: 70%;
+        height: 70%;
+    }
+
+    /* Hover effect */
+    .whatsapp-float:hover {
+        transform: scale(1.1);
+        box-shadow: 0 6px 8px rgba(0, 0, 0, 0.2);
     }
 </style>
 

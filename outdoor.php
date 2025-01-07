@@ -52,7 +52,7 @@ include_once 'header.php'; ?>
     <div class="container">
         <div class="row">
             <div class="col-lg-12 col-md-12">
-                <h1><?php echo isset($title) ? $title : 'Service Not Found'; ?></h1>
+                <h1 style="color:white;"><?php echo isset($title) ? $title : 'Service Not Found'; ?></h1>
                 <ul class="breadcrumb">
                     <li><a href="index.php"><i class="fas fa-home"></i> Home</a></li>
                     <li><a href="index.php#services">Services</a></li>

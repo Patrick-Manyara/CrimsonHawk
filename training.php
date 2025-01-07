@@ -128,7 +128,7 @@
 
                     <div class="PackageBottom">
                         <h3>Starting at Ksh. 10,000</h3>
-                        <p>Modules</p>
+                        <p><strong>Modules</strong></p>
                         <ul class="PackageUl">
                             <li><i class="fas fa-check-circle"></i>Introduction to Digital Marketing</li>
                             <li><i class="fas fa-check-circle"></i>Basics of Social Media Marketing (Facebook, Instagram)</li>
@@ -138,7 +138,7 @@
                             <li><i class="fas fa-check-circle"></i>Analytics Overview (Introduction to Facebook Insights and Google Analytics)</li>
                         </ul>
 
-                        <p>Resources</p>
+                        <p><strong>Resources</strong></p>
 
                         <ul class="PackageUl">
                             <li><i class="fas fa-check-circle"></i>Training Manual</li>
@@ -167,7 +167,7 @@
 
                     <div class="PackageBottom">
                         <h3>Starting at Ksh. 20,000</h3>
-                        <p>Modules</p>
+                        <p><strong>Modules</strong></p>
                         <ul class="PackageUl">
                             <li><i class="fas fa-check-circle"></i>All Starter Package Content</li>
                             <li><i class="fas fa-check-circle"></i>Social Media Advertising (Facebook & Instagram Ads in-depth)</li>
@@ -179,7 +179,7 @@
                         </ul>
 
 
-                        <p>Resources</p>
+                        <p><strong>Resources</strong></p>
 
                         <ul class="PackageUl">
                             <li><i class="fas fa-check-circle"></i>Training Manual + Templates</li>
@@ -210,7 +210,7 @@
                     <div class="PackageBottom">
                         <h3>Starting at Ksh. 30,000</h3>
 
-                        <p>Modules</p>
+                        <p><strong>Modules</strong></p>
                         <ul class="PackageUl">
                             <li><i class="fas fa-check-circle"></i>All Growth Package Content</li>
                             <li><i class="fas fa-check-circle"></i>Advanced Social Media Marketing (Paid campaigns on Twitter, LinkedIn)</li>
@@ -222,7 +222,7 @@
                             <li><i class="fas fa-check-circle"></i>Creating Engaging Graphics & Videos (Canva & Other Tools)</li>
                         </ul>
 
-                        <p>Resources</p>
+                        <p><strong>Resources</strong></p>
 
                         <ul class="PackageUl">
                             <li><i class="fas fa-check-circle"></i>Training Manual + Advanced Templates</li>
@@ -254,7 +254,7 @@
                     <div class="PackageBottom">
                         <h3>Starting at Ksh. 50,000</h3>
 
-                        <p>Modules</p>
+                        <p><strong>Modules</strong></p>
                         <ul class="PackageUl">
                             <li><i class="fas fa-check-circle"></i>All Pro Package Content</li>
                             <li><i class="fas fa-check-circle"></i>Advanced Google Ads (Remarketing, Shopping Ads)</li>
@@ -266,7 +266,7 @@
                             <li><i class="fas fa-check-circle"></i>Growth Hacking Technique</li>
                         </ul>
 
-                        <p>Resources</p>
+                        <p><strong>Resources</strong></p>
 
                         <ul class="PackageUl">
                             <li><i class="fas fa-check-circle"></i>Full Access to Recordings, Resources, Templates, and Case Studies</li>
@@ -371,6 +371,7 @@
 
     .PackageBottom p {
         margin: 10px 0px 0px 0px;
+        font-style: italic;
     }
 
     .PackageUl li {

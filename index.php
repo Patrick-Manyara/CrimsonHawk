@@ -8,11 +8,16 @@
                 <div class="slider-thumb bg-cover" style="background-image: url(assets/img/slider_1.png);"></div>
                 <div class="box-table shadow dark">
                     <div class="box-cell">
-                        <div class="container">
+                        <div class="container" style="width: 90%;">
                             <div class="row">
                                 <div class="col-md-8">
                                     <div class="content">
+                                        <h4 data-animation="animated slideInRight"></h4>
+                                        <h2 data-animation="animated slideInDown"></h2>
+                                        <p data-animation="animated slideInLeft">
 
+                                        </p>
+                                        <a data-animation="animated slideInUp" class="btn btn-theme theme btn-md" href="#services">Our Services</a>
                                     </div>
                                 </div>
                             </div>
@@ -20,15 +25,21 @@
                     </div>
                 </div>
             </div>
+
             <div class="item">
                 <div class="slider-thumb bg-cover" style="background-image: url(assets/img/slider_2.png);"></div>
                 <div class="box-table shadow dark">
                     <div class="box-cell">
-                        <div class="container">
+                        <div class="container" style="width: 90%;">
                             <div class="row">
                                 <div class="col-md-8">
                                     <div class="content">
+                                        <h4 data-animation="animated slideInRight"></h4>
+                                        <h2 data-animation="animated slideInDown"></h2>
+                                        <p data-animation="animated slideInLeft">
 
+                                        </p>
+                                        <a data-animation="animated slideInUp" class="btn btn-theme theme btn-md" href="#services">Our Services</a>
                                     </div>
                                 </div>
                             </div>
@@ -41,11 +52,16 @@
                 <div class="slider-thumb bg-cover" style="background-image: url(assets/img/slider_3.png);"></div>
                 <div class="box-table shadow dark">
                     <div class="box-cell">
-                        <div class="container">
+                        <div class="container" style="width: 90%;">
                             <div class="row">
                                 <div class="col-md-8">
                                     <div class="content">
+                                        <h4 data-animation="animated slideInRight"></h4>
+                                        <h2 data-animation="animated slideInDown"></h2>
+                                        <p data-animation="animated slideInLeft">
 
+                                        </p>
+                                        <a data-animation="animated slideInUp" class="btn btn-theme theme btn-md" href="#services">Our Services</a>
                                     </div>
                                 </div>
                             </div>
@@ -58,11 +74,16 @@
                 <div class="slider-thumb bg-cover" style="background-image: url(assets/img/slider_4.png);"></div>
                 <div class="box-table shadow dark">
                     <div class="box-cell">
-                        <div class="container">
+                        <div class="container" style="width: 90%;">
                             <div class="row">
                                 <div class="col-md-8">
                                     <div class="content">
+                                        <h4 data-animation="animated slideInRight"></h4>
+                                        <h2 data-animation="animated slideInDown"></h2>
+                                        <p data-animation="animated slideInLeft">
 
+                                        </p>
+                                        <a data-animation="animated slideInUp" class="btn btn-theme theme btn-md" href="#services">Our Services</a>
                                     </div>
                                 </div>
                             </div>
@@ -75,11 +96,16 @@
                 <div class="slider-thumb bg-cover" style="background-image: url(assets/img/slider_5.png);"></div>
                 <div class="box-table shadow dark">
                     <div class="box-cell">
-                        <div class="container">
+                        <div class="container" style="width: 90%;">
                             <div class="row">
                                 <div class="col-md-8">
                                     <div class="content">
+                                        <h4 data-animation="animated slideInRight"></h4>
+                                        <h2 data-animation="animated slideInDown"></h2>
+                                        <p data-animation="animated slideInLeft">
 
+                                        </p>
+                                        <a data-animation="animated slideInUp" class="btn btn-theme theme btn-md" href="#services">Our Services</a>
                                     </div>
                                 </div>
                             </div>
@@ -598,7 +624,7 @@
 <!-- End Downloads Us -->
 
 <?php
-include_once 'reels.php'; 
+// include_once 'reels.php';
 ?>
 
 <!-- Start Testimonials -->
