@@ -147,7 +147,7 @@ include_once 'header.php'; ?>
                                 <?php
                                 if ($_GET['id'] == 'outdoor') { ?>
                                     <li>
-                                        <a target="_blank" href="https://new.riversidefilters.co.ke/uploads/CONNECT_KENYA_PROFILE.pdf">
+                                        <a target="_blank" href="https://crimsonhawkltd.co.ke/uploads/CONNECT_KENYA_PROFILE.pdf">
                                             <div class="DownloadStyle">
                                                 <div>
                                                     <img src="assets/img/pdf.png" class="PdfImage" />
@@ -168,7 +168,7 @@ include_once 'header.php'; ?>
                                 <?php
                                 if ($_GET['id'] == 'sales') { ?>
                                     <li>
-                                        <a target="_blank" href="https://new.riversidefilters.co.ke/uploads/CHL_SALES_PROFILE.pdf">
+                                        <a target="_blank" href="https://crimsonhawkltd.co.ke/uploads/CHL_SALES_PROFILE.pdf">
                                             <div class="DownloadStyle">
                                                 <div>
                                                     <img src="assets/img/pdf.png" class="PdfImage" />

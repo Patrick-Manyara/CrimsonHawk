@@ -190,7 +190,7 @@
                     </p>
                     <div class="features">
                         <div class="item">
-                            <a target="_blank" href="https://new.riversidefilters.co.ke/uploads/CHL_OFFICIAL_PROFILE.pdf">
+                            <a target="_blank" href="https://crimsonhawkltd.co.ke/uploads/CHL_OFFICIAL_PROFILE.pdf">
                                 <div class="DownloadStyle">
                                     <div>
                                         <img src="assets/img/pdf.png" class="PdfImage" />
@@ -206,7 +206,7 @@
                         </div>
 
                         <div class="item">
-                            <a target="_blank" href="https://new.riversidefilters.co.ke/uploads/CHL_SMALL_BUSINESS_PROFILE.pdf">
+                            <a target="_blank" href="https://crimsonhawkltd.co.ke/uploads/CHL_SMALL_BUSINESS_PROFILE.pdf">
                                 <div class="DownloadStyle">
                                     <div>
                                         <img src="assets/img/pdf.png" class="PdfImage" />
@@ -476,7 +476,7 @@
 
                             <ul class="MyUl">
                                 <li>
-                                    <a target="_blank" href="https://new.riversidefilters.co.ke/uploads/CHL_OFFICIAL_PROFILE.pdf">
+                                    <a target="_blank" href="https://crimsonhawkltd.co.ke/uploads/CHL_OFFICIAL_PROFILE.pdf">
                                         <div class="DownloadStyle">
                                             <div>
                                                 <img src="assets/img/pdf.png" class="PdfImage" />
@@ -492,7 +492,7 @@
                                 </li>
 
                                 <li>
-                                    <a target="_blank" href="https://new.riversidefilters.co.ke/uploads/CHL_SMALL_BUSINESS_PROFILE.pdf">
+                                    <a target="_blank" href="https://crimsonhawkltd.co.ke/uploads/CHL_SMALL_BUSINESS_PROFILE.pdf">
                                         <div class="DownloadStyle">
                                             <div>
                                                 <img src="assets/img/pdf.png" class="PdfImage" />
@@ -508,7 +508,7 @@
                                 </li>
 
                                 <li>
-                                    <a target="_blank" href="https://new.riversidefilters.co.ke/uploads/CHL_WEB_DEV_PACKAGES.pdf">
+                                    <a target="_blank" href="https://crimsonhawkltd.co.ke/uploads/CHL_WEB_DEV_PACKAGES.pdf">
                                         <div class="DownloadStyle">
                                             <div>
                                                 <img src="assets/img/pdf.png" class="PdfImage" />
@@ -524,7 +524,7 @@
                                 </li>
 
                                 <li>
-                                    <a target="_blank" href="https://new.riversidefilters.co.ke/uploads/CHL_MARKETING_PACKAGES.pdf">
+                                    <a target="_blank" href="https://crimsonhawkltd.co.ke/uploads/CHL_MARKETING_PACKAGES.pdf">
                                         <div class="DownloadStyle">
                                             <div>
                                                 <img src="assets/img/pdf.png" class="PdfImage" />
@@ -545,7 +545,7 @@
                         <div class="info title">
                             <ul class="MyUl">
                                 <li>
-                                    <a target="_blank" href="https://new.riversidefilters.co.ke/uploads/CHL_VIDEOGRAPHY_PACKAGES.pdf">
+                                    <a target="_blank" href="https://crimsonhawkltd.co.ke/uploads/CHL_VIDEOGRAPHY_PACKAGES.pdf">
                                         <div class="DownloadStyle">
                                             <div>
                                                 <img src="assets/img/pdf.png" class="PdfImage" />
@@ -561,7 +561,7 @@
                                 </li>
 
                                 <li>
-                                    <a target="_blank" href="https://new.riversidefilters.co.ke/uploads/CHL_TRAINING_PACKAGES.pdf">
+                                    <a target="_blank" href="https://crimsonhawkltd.co.ke/uploads/CHL_TRAINING_PACKAGES.pdf">
                                         <div class="DownloadStyle">
                                             <div>
                                                 <img src="assets/img/pdf.png" class="PdfImage" />
@@ -582,7 +582,7 @@
                         <div class="info title">
                             <ul class="MyUl">
                                 <li>
-                                    <a target="_blank" href="https://new.riversidefilters.co.ke/uploads/CHL_SALES_PROFILE.pdf">
+                                    <a target="_blank" href="https://crimsonhawkltd.co.ke/uploads/CHL_SALES_PROFILE.pdf">
                                         <div class="DownloadStyle">
                                             <div>
                                                 <img src="assets/img/pdf.png" class="PdfImage" />
@@ -598,7 +598,7 @@
                                 </li>
 
                                 <li>
-                                    <a target="_blank" href="https://new.riversidefilters.co.ke/uploads/CHL_CONNECT_KENYA.pdf">
+                                    <a target="_blank" href="https://crimsonhawkltd.co.ke/uploads/CHL_CONNECT_KENYA.pdf">
                                         <div class="DownloadStyle">
                                             <div>
                                                 <img src="assets/img/pdf.png" class="PdfImage" />
@@ -624,7 +624,7 @@
 <!-- End Downloads Us -->
 
 <?php
-include_once 'reels.php';
+// include_once 'reels.php';
 ?>
 
 <!-- Start Testimonials -->
@@ -885,11 +885,6 @@ include_once 'reels.php';
                         </div>
                     </div>
                     <!-- End Single Item -->
-
-
-
-
-
                 </div>
             </div>
         </div>
@@ -1000,52 +995,48 @@ include_once 'reels.php';
                     <p>
                         Let's collaborate to turn your vision into reality with tailored marketing strategies that deliver real results.
                     </p>
-                    <form action="assets/mail/contact.php" method="POST" class="contact-form">
+                    <form id="contactForm" class="contact-form">
                         <div class="col-md-12">
                             <div class="row">
                                 <div class="form-group">
-                                    <input class="form-control" id="name" name="name" placeholder="Name" type="text">
-                                    <span class="alert-error"></span>
+                                    <input class="form-control" id="name" name="name" required placeholder="Your Name" type="text">
+
                                 </div>
                             </div>
                         </div>
                         <div class="row">
                             <div class="col-md-6">
                                 <div class="form-group">
-                                    <input class="form-control" id="email" name="email" placeholder="Email*" type="email">
-                                    <span class="alert-error"></span>
+                                    <input class="form-control" id="email" name="email" required placeholder="Your Email*" type="email">
+
                                 </div>
                             </div>
                             <div class="col-md-6">
                                 <div class="form-group">
-                                    <input class="form-control" id="phone" name="phone" placeholder="Phone" type="text">
-                                    <span class="alert-error"></span>
+                                    <input class="form-control" id="phone" name="phone" required placeholder="Your Phone Number" type="text">
+
                                 </div>
                             </div>
                         </div>
                         <div class="col-md-12">
                             <div class="row">
                                 <div class="form-group comments">
-                                    <textarea class="form-control" id="comments" name="comments" placeholder="Tell Us About Your Project *"></textarea>
+                                    <textarea class="form-control" id="comments" required name="comments" placeholder="Tell Us About Your Project *"></textarea>
                                 </div>
                             </div>
                         </div>
                         <div class="col-md-12">
                             <div class="row">
-                                <button type="submit" name="submit" id="submit">
+                                <button type="submit">
                                     Send Message <i class="fa fa-paper-plane"></i>
                                 </button>
                             </div>
                         </div>
-                        <!-- Alert Message -->
-                        <div class="col-md-12 alert-notification">
-                            <div id="message" class="alert-msg"></div>
-                        </div>
+
                     </form>
                 </div>
             </div>
             <!-- End Contact Info -->
-
         </div>
     </div>
 </div>
@@ -1159,5 +1150,42 @@ include_once 'reels.php';
     </div>
 </div>
 <!-- End Blog Area -->
+
+<script>
+    document.getElementById('contactForm').addEventListener('submit', async function(event) {
+        event.preventDefault();
+
+        const formData = new FormData(this);
+        const submitButton = this.querySelector('button[type="submit"]');
+
+        // Save the original button content
+        const originalButtonContent = submitButton.innerHTML;
+
+        // Replace button content with a loader
+        submitButton.innerHTML = `<i class="fa fa-spinner fa-spin"></i> Sending...`;
+        submitButton.disabled = true; // Disable the button to prevent multiple clicks
+
+        try {
+            const response = await fetch('send_email.php', {
+                method: 'POST',
+                body: formData,
+            });
+
+            const result = await response.json();
+            if (result.status === 'success') {
+                alert('Message sent successfully!');
+            } else {
+                alert('Failed to send message: ' + result.message);
+            }
+        } catch (error) {
+            alert('An error occurred: ' + error.message);
+        } finally {
+            // Restore the original button content and enable the button
+            submitButton.innerHTML = originalButtonContent;
+            submitButton.disabled = false;
+        }
+    });
+</script>
+
 
 <?php include_once 'footer.php'; ?>

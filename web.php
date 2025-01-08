@@ -145,7 +145,7 @@ include_once 'header.php'; ?>
                             </div>
                             <ul>
                                 <li>
-                                    <a target="_blank" href="https://new.riversidefilters.co.ke/uploads/CHL_WEB_DEV_PACKAGES.pdf">
+                                    <a target="_blank" href="https://crimsonhawkltd.co.ke/uploads/CHL_WEB_DEV_PACKAGES.pdf">
                                         <div class="DownloadStyle">
                                             <div>
                                                 <img src="assets/img/pdf.png" class="PdfImage" />
@@ -161,7 +161,7 @@ include_once 'header.php'; ?>
                                 </li>
 
                                 <li>
-                                    <a target="_blank" href="https://new.riversidefilters.co.ke/uploads/CHL_MARKETING_PACKAGES.pdf">
+                                    <a target="_blank" href="https://crimsonhawkltd.co.ke/uploads/CHL_MARKETING_PACKAGES.pdf">
                                         <div class="DownloadStyle">
                                             <div>
                                                 <img src="assets/img/pdf.png" class="PdfImage" />

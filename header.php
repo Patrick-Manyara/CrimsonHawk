@@ -35,7 +35,38 @@
 
 </head>
 
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-62F3X12DHJ"></script>
+<script>
+    window.dataLayer = window.dataLayer || [];
+
+    function gtag() {
+        dataLayer.push(arguments);
+    }
+    gtag('js', new Date());
+
+    gtag('config', 'G-62F3X12DHJ');
+</script>
+
 <body>
+    <script type="text/javascript">
+        setTimeout(function() {
+            var Tawk_API = Tawk_API || {},
+                Tawk_LoadStart = new Date();
+            (function() {
+                var s1 = document.createElement("script"),
+                    s0 = document.getElementsByTagName("script")[0];
+                s1.async = true;
+                s1.src = 'https://embed.tawk.to/677cf12f49e2fd8dfe039d16/1ih00s8it';
+                s1.charset = 'UTF-8';
+                s1.setAttribute('crossorigin', '*');
+                s0.parentNode.insertBefore(s1, s0);
+            })();
+        }, 45000);
+    </script>
+
+
+
     <style>
         .logo {
             width: 80px;
@@ -53,9 +84,52 @@
                 overflow-x: hidden;
             }
         }
+
+        .dots {
+            display: flex;
+            justify-content: center;
+            margin-bottom: 20px;
+        }
+
+        .dot {
+            width: 15px;
+            height: 15px;
+            margin: 0 5px;
+            background-color: #03492F;
+            border-radius: 50%;
+            animation: bounce 1.5s infinite;
+        }
+
+        .dot:nth-child(2) {
+            animation-delay: 0.2s;
+        }
+
+        .dot:nth-child(3) {
+            animation-delay: 0.4s;
+        }
+
+        @keyframes bounce {
+
+            0%,
+            80%,
+            100% {
+                transform: scale(0);
+            }
+
+            40% {
+                transform: scale(1);
+            }
+        }
     </style>
+
     <!-- Preloader Start -->
-    <div class="se-pre-con"></div>
+    <div class="preloader">
+        <div class="dots">
+            <div class="dot"></div>
+            <div class="dot"></div>
+            <div class="dot"></div>
+        </div>
+    </div>
     <!-- Preloader Ends -->
 
     <!-- Header 
@@ -103,7 +177,6 @@
                 </div>
                 <!-- End Header Navigation -->
 
-                <!-- Collect the nav links, forms, and other content for toggling -->
                 <div class="collapse navbar-collapse" id="navbar-menu">
                     <ul class="nav navbar-nav navbar-right" data-in="#" data-out="#">
                         <li><a href="index.php">Home</a></li>
@@ -146,7 +219,7 @@
                         <li><a href="contact.php">Contact Us</a></li>
 
                     </ul>
-                </div><!-- /.navbar-collapse -->
+                </div>
             </div>
 
         </nav>

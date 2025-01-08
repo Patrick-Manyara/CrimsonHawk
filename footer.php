@@ -195,6 +195,11 @@
         object-fit: cover;
     }
 
+    .fa-spinner {
+        margin-right: 5px;
+        /* Add some space between the spinner and text */
+    }
+
     .MyBtn {
         background-color: #03492F;
         color: #FFFFFF !important;

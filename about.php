@@ -33,7 +33,7 @@
                     </p>
                     <div class="features">
                         <div class="item">
-                            <a target="_blank" href="https://new.riversidefilters.co.ke/uploads/CHL_OFFICIAL_PROFILE.pdf">
+                            <a target="_blank" href="https://crimsonhawkltd.co.ke/uploads/CHL_OFFICIAL_PROFILE.pdf">
                                 <div class="DownloadStyle">
                                     <div>
                                         <img src="assets/img/pdf.png" class="PdfImage" />
@@ -49,7 +49,7 @@
                         </div>
 
                         <div class="item">
-                            <a target="_blank" href="https://new.riversidefilters.co.ke/uploads/CHL_SMALL_BUSINESS_PROFILE.pdf">
+                            <a target="_blank" href="https://crimsonhawkltd.co.ke/uploads/CHL_SMALL_BUSINESS_PROFILE.pdf">
                                 <div class="DownloadStyle">
                                     <div>
                                         <img src="assets/img/pdf.png" class="PdfImage" />
