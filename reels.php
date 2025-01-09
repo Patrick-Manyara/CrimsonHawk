@@ -1,4 +1,18 @@
-<!-- Star Portfolio -->
+<?php
+
+$apiKey = 'AIzaSyAkQrt3ywWNECAozTczXy7_oTtlYcXGzJU';
+$channelId = 'UCl8WNRMDjRD8OhqUmjvo1UQ'; // Replace with the actual channel ID
+$maxResults = 6; // Number of latest videos to fetch
+
+// YouTube API URL to get videos
+$url = "https://www.googleapis.com/youtube/v3/search?key=$apiKey&channelId=$channelId&order=date&maxResults=$maxResults";
+
+// Fetch videos
+$response = file_get_contents($url);
+$data = json_decode($response);
+
+?>
+
 <div class="portfolio-area default-padding">
     <div class="container">
         <div class="row">
@@ -21,132 +35,44 @@
 
                     <div class="row magnific-mix-gallery masonary ">
                         <div id="portfolio-grid" class="row">
-                            <div class="col-lg-3 col-md-3 col-sm-12 col-12  featured reels">
-                                <div class="item-effect">
+                            <?php
+                            if (isset($data->items)) {
+                                foreach ($data->items as $video) {
+                                    if (isset($video->id->videoId)) {
+                                        $videoId = $video->id->videoId;
+                                        // $videoTitle = $video->snippet->title;
+                            ?>
 
-                                    <div class="youtube-short">
-                                        <iframe
-                                            width="100%"
-                                            height="500"
-                                            style="border-radius: 10px;"
-                                            src="https://youtube.com/embed/Nq0kN7-sxuk?si=7gyO4zsL2Gv3QXuh"
-                                            frameborder="0"
-                                            allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture"
-                                            allowfullscreen
-                                            loading="lazy">
-                                        </iframe>
-                                        <div class="CaptionArea">
-                                            <p>
-                                                HAS YOUR SALES STAGNATED? YOU NEED TO HEAR THIS STORY!
-                                            </p>
-                                            <img src="assets/img/rec.png" />
+                                        <div class="col-lg-3 col-md-3 col-sm-12 col-12 featured reels">
+                                            <div class="item-effect">
+
+                                                <div class="youtube-short">
+                                                    <iframe
+                                                        width="100%"
+                                                        height="500"
+                                                        style="border-radius: 10px;"
+                                                        src="https://youtube.com/embed/<?= $videoId ?>"
+                                                        frameborder="0"
+                                                        allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture"
+                                                        allowfullscreen
+                                                        loading="lazy">
+                                                    </iframe>
+                                                    <div class="CaptionArea">
+                                                        <p>
+                                                            <?= htmlspecialchars('', ENT_QUOTES, 'UTF-8') ?>
+                                                        </p>
+                                                        <img src="assets/img/rec.png" />
+                                                    </div>
+                                                </div>
+
+                                            </div>
                                         </div>
-                                    </div>
 
-                                </div>
-                            </div>
-
-                            <div class="col-lg-3 col-md-3 col-sm-12 col-12  reels vids">
-                                <div class="item-effect">
-
-                                    <div class="youtube-short">
-                                        <iframe
-                                            width="100%"
-                                            height="500"
-                                            style="border-radius: 10px;"
-                                            src="https://youtube.com/embed/7ArLNwPCRUg?si=Ml3hOuCFpf_EOr2a"
-                                            frameborder="0"
-                                            allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture"
-                                            allowfullscreen
-                                            loading="lazy">
-                                        </iframe>
-                                        <div class="CaptionArea">
-                                            <p>
-                                                MARKETING & TYPES OF BUSINESSES
-                                            </p>
-                                            <img src="assets/img/rec.png" />
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-
-                            <div class="col-lg-3 col-md-3 col-sm-12 col-12   featured">
-                                <div class="item-effect">
-
-                                    <div class="youtube-short">
-                                        <iframe
-                                            width="100%"
-                                            height="500"
-                                            style="border-radius: 10px;"
-                                            src="https://youtube.com/embed/08qmByDB5Yc?si=rAQFHjWqAkG28z29"
-                                            frameborder="0"
-                                            allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture"
-                                            allowfullscreen
-                                            loading="lazy">
-                                        </iframe>
-                                        <div class="CaptionArea">
-                                            <p>
-                                                DO YOU NEED A WEBSITE FOR YOUR BUSINESS?
-
-                                            </p>
-                                            <img src="assets/img/rec.png" />
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-
-                            <div class="col-lg-3 col-md-3 col-sm-12 col-12  reels ">
-                                <div class="item-effect">
-
-                                    <div class="youtube-short">
-                                        <iframe
-                                            width="100%"
-                                            height="500"
-                                            style="border-radius: 10px;"
-                                            src="https://youtube.com/embed/Hrd8Xsu9NHM?si=P3cUSE0LwX4AhRJv"
-                                            frameborder="0"
-                                            allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture"
-                                            allowfullscreen
-                                            loading="lazy">
-                                        </iframe>
-                                        <div class="CaptionArea">
-                                            <p>
-                                                WHY YOUR BUSINESS NEEDS DIGITAL MARKETING!
-
-                                            </p>
-                                            <img src="assets/img/rec.png" />
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-
-                            <div class="col-lg-3 col-md-3 col-sm-12 col-12  featured reels">
-                                <div class="item-effect">
-
-                                    <div class="youtube-short">
-                                        <iframe
-                                            width="100%"
-                                            height="500"
-                                            style="border-radius: 10px;"
-                                            src="https://youtube.com/embed/Nq0kN7-sxuk?si=7gyO4zsL2Gv3QXuh"
-                                            frameborder="0"
-                                            allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture"
-                                            allowfullscreen
-                                            loading="lazy">
-                                        </iframe>
-                                        <div class="CaptionArea">
-                                            <p>
-                                                HAS YOUR SALES STAGNATED? YOU NEED TO HEAR THIS STORY!
-
-                                            </p>
-                                            <img src="assets/img/rec.png" />
-                                        </div>
-                                    </div>
-
-                                </div>
-                            </div>
-
-
+                            <?php
+                                    }
+                                }
+                            }
+                            ?>
 
                         </div>
                     </div>

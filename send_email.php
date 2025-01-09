@@ -40,7 +40,7 @@ function email($email, $comments, $name, $phone)
                    <p><strong>Phone:</strong> ' . $phone . '</p>
                    <p><strong>Message:</strong></p>
                    <p>' . $comments . '</p>';
-    $mail->addAddress('pmanyara97@gmail.com'); // Send to the fixed recipient
+    $mail->addAddress('crimsonhawkltd@gmail.com'); // Send to the fixed recipient
 
     if (!$mail->send()) {
         return "Email sending failed: " . $mail->ErrorInfo;

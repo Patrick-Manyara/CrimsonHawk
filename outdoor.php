@@ -67,9 +67,86 @@ include_once 'header.php'; ?>
 <!-- Start Blog -->
 <div class="blog-area single full-blog right-sidebar full-blog default-padding">
     <div class="container">
+    <div class="row">
+            <div class="col-md-8 col-md-offset-2">
+                <div class="site-heading text-center">
+                    <h2>Our Billboards</h2>
+                    
+                </div>
+            </div>
+        </div>
+        <div>
+            <div class="responsive">
+                <div class="gallery">
+                    <a target="_blank" href="assets/img/ck1.png">
+                        <img src="assets/img/ck1.png" alt="Cinque Terre" width="600" height="400">
+                    </a>
+                    
+                </div>
+            </div>
+
+
+            <div class="responsive">
+                <div class="gallery">
+                    <a target="_blank" href="assets/img/ck2.png">
+                        <img src="assets/img/ck2.png" alt="Forest" width="600" height="400">
+                    </a>
+                    
+                </div>
+            </div>
+
+            <div class="responsive">
+                <div class="gallery">
+                    <a target="_blank" href="assets/img/ck3.png">
+                        <img src="assets/img/ck3.png" alt="Northern Lights" width="600" height="400">
+                    </a>
+                    
+                </div>
+            </div>
+
+            <div class="responsive">
+                <div class="gallery">
+                    <a target="_blank" href="assets/img/ck4.png">
+                        <img src="assets/img/ck4.png" alt="Mountains" width="600" height="400">
+                    </a>
+                    
+                </div>
+            </div>
+
+            <div class="responsive">
+                <div class="gallery">
+                    <a target="_blank" href="assets/img/ck5.png">
+                        <img src="assets/img/ck5.png" alt="Mountains" width="600" height="400">
+                    </a>
+                    
+                </div>
+            </div>
+
+
+            <div class="responsive">
+                <div class="gallery">
+                    <a target="_blank" href="assets/img/ck6.png">
+                        <img src="assets/img/ck6.png" alt="Mountains" width="600" height="400">
+                    </a>
+                    
+                </div>
+            </div>
+
+
+            <div class="responsive">
+                <div class="gallery">
+                    <a target="_blank" href="assets/img/ck7.png">
+                        <img src="assets/img/ck7.png" alt="Mountains" width="600" height="400">
+                    </a>
+                    
+                </div>
+            </div>
+
+
+        </div>
         <div class="row">
             <div class="blog-items">
-                <div class="blog-content col-md-8">
+                <div class="blog-content col-md-12"  style="margin-top:20px">
                     <div class="item">
                         <div class="info">
                             <?php
@@ -80,210 +157,10 @@ include_once 'header.php'; ?>
                         </div>
                     </div>
                 </div>
-                <!-- Start Sidebar -->
-                <div class="sidebar col-md-4">
-                    <aside>
-                        <div class="sidebar-item search">
-                            <div class="title">
-                                <h4>Search</h4>
-                            </div>
-                            <div class="sidebar-info">
-                                <form>
-                                    <input type="text" class="form-control">
-                                    <button type="submit">
-                                        <i class="fas fa-search"></i>
-                                    </button>
-                                </form>
-                            </div>
-                        </div>
-                        <div class="sidebar-item category">
-                            <div class="title">
-                                <h4>Our Services</h4>
-                            </div>
-                            <div class="sidebar-info">
-                                <ul>
-                                    <li>
-                                        <a href="videos.php">Digital Marketing</a>
-                                    </li>
-                                    <li>
-                                        <a href="service.php?id=social">Social Media Marketing</a>
-                                    </li>
-                                    <li>
-                                        <a href="service.php?id=email">Email Marketing</a>
-                                    </li>
-                                    <li>
-                                        <a href="service.php?id=whatsapp">WhatsApp Marketing</a>
-                                    </li>
-                                    <li>
-                                        <a href="service.php?id=lead">Lead Generation</a>
-                                    </li>
-                                    <li>
-                                        <a href="service.php?id=brand">Brand Development</a>
-                                    </li>
-                                    <li>
-                                        <a href="outdoor.php?id=sales">Sales Strategy</a>
-                                    </li>
-                                    <li>
-                                        <a href="service.php?id=graphic">Graphic Design</a>
-                                    </li>
-                                    <li>
-                                        <a href="service.php?id=social">Content Creation</a>
-                                    </li>
-                                    <li>
-                                        <a href="web.php?id=web#seo">SEO Services</a>
-                                    </li>
-                                    <li>
-                                        <a href="service.php?id=lead#ppc">PPC Advertising</a>
-                                    </li>
-                                </ul>
 
-                            </div>
-                        </div>
-                        <div class="sidebar-item recent-post">
-                            <div class="title">
-                                <h4>Download:</h4>
-                            </div>
-                            <ul>
-                                <?php
-                                if ($_GET['id'] == 'outdoor') { ?>
-                                    <li>
-                                        <a target="_blank" href="https://crimsonhawkltd.co.ke/uploads/CONNECT_KENYA_PROFILE.pdf">
-                                            <div class="DownloadStyle">
-                                                <div>
-                                                    <img src="assets/img/pdf.png" class="PdfImage" />
-                                                </div>
-                                                <div>
-                                                    <h4 class="ServiceDownloadH1">Connect Kenya Profile</h4>
-                                                    <p class="ServiceDownloadPee">
-                                                        Click the button to download this document
-                                                    </p>
-                                                </div>
-                                            </div>
-                                        </a>
-                                    </li>
-                                <?php
-                                }
-                                ?>
-
-                                <?php
-                                if ($_GET['id'] == 'sales') { ?>
-                                    <li>
-                                        <a target="_blank" href="https://crimsonhawkltd.co.ke/uploads/CHL_SALES_PROFILE.pdf">
-                                            <div class="DownloadStyle">
-                                                <div>
-                                                    <img src="assets/img/pdf.png" class="PdfImage" />
-                                                </div>
-                                                <div>
-                                                    <h4 class="ServiceDownloadH1">Sales Force Profile</h4>
-                                                    <p class="ServiceDownloadPee">
-                                                        Click the button to download this document
-                                                    </p>
-                                                </div>
-                                            </div>
-                                        </a>
-                                    </li>
-                                <?php
-                                }
-                                ?>
-                            </ul>
-                        </div>
-                        <div class="sidebar-item archives">
-                            <div class="title">
-                                <h4>Reach Out To Us:</h4>
-                            </div>
-                            <div class="sidebar-info">
-                                <ul>
-                                    <li>
-                                        <h5>Address</h5>
-                                        <span>Fourth Parklands Avenue, Parklands Nairobi.</span>
-                                    </li>
-                                    <li>
-                                        <h5>Phone</h5>
-                                        <span>+254708864076</span>
-                                    </li>
-                                    <li>
-                                        <h5>Email</h5>
-                                        <span>marketing@crimsonhawkltd.co.ke</span>
-                                    </li>
-                                </ul>
-                            </div>
-                        </div>
-                        <div class="sidebar-item social-sidebar">
-                            <div class="title">
-                                <h4>follow us</h4>
-                            </div>
-                            <div class="sidebar-info">
-                                <ul>
-                                    <li class="facebook">
-                                        <a href="https://www.facebook.com/hawklimited/"><i class="fab fa-facebook-f"></i></a>
-                                    </li>
-                                    <li class="instagram">
-                                        <a href="https://www.instagram.com/hawk.limited/"><i class="fab fa-instagram"></i></a>
-                                    </li>
-                                    <li class="linkedin">
-                                        <a href="https://www.linkedin.com/company/crimson-hawk-limited/"><i class="fab fa-linkedin-in"></i></a>
-                                    </li>
-
-                                    <li class="twitter">
-                                        <a href="https://x.com/HAWKLIMITED1"><i class="fab fa-twitter"></i></a>
-                                    </li>
-                                    <li class="google">
-                                        <a href="https://www.google.com/search?q=hawk+limited&oq=hawk+limited+&gs_lcrp=EgZjaHJvbWUyCggAEEUYFhgeGDkyCAgBEAAYFhgeMggIAhAAGBYYHjIOCAMQLhgWGB4YxwEY0QMyCAgEEAAYFhgeMgYIBRBFGDwyBggGEEUYPDIGCAcQRRg80gEINDM5MGowajeoAgCwAgA&sourceid=chrome&ie=UTF-8"><i class="fab fa-google"></i></a>
-                                    </li>
-                                    <li class="youtube">
-                                        <a href="https://www.youtube.com/@CrimsonHawkLimited"><i class="fab fa-youtube"></i></a>
-                                    </li>
-
-                                </ul>
-                            </div>
-                        </div>
-                        <div class="sidebar-item tags">
-                            <div class="title">
-                                <h4>tags</h4>
-                            </div>
-                            <div class="sidebar-info">
-                                <ul>
-                                    <li>
-                                        <a href="videos.php">Digital Marketing</a>
-                                    </li>
-                                    <li>
-                                        <a href="service.php?id=social">Social Media Marketing</a>
-                                    </li>
-                                    <li>
-                                        <a href="service.php?id=email">Email Marketing</a>
-                                    </li>
-                                    <li>
-                                        <a href="service.php?id=whatsapp">WhatsApp Marketing</a>
-                                    </li>
-                                    <li>
-                                        <a href="service.php?id=lead">Lead Generation</a>
-                                    </li>
-                                    <li>
-                                        <a href="service.php?id=brand">Brand Development</a>
-                                    </li>
-                                    <li>
-                                        <a href="outdoor.php?id=sales">Sales Strategy</a>
-                                    </li>
-                                    <li>
-                                        <a href="service.php?id=graphic">Graphic Design</a>
-                                    </li>
-                                    <li>
-                                        <a href="service.php?id=social">Content Creation</a>
-                                    </li>
-                                    <li>
-                                        <a href="web.php?id=web#seo">SEO Services</a>
-                                    </li>
-                                    <li>
-                                        <a href="service.php?id=lead#ppc">PPC Advertising</a>
-                                    </li>
-                                </ul>
-                            </div>
-                        </div>
-                    </aside>
-                </div>
-                <!-- End Start Sidebar -->
             </div>
         </div>
+
     </div>
 </div>
 
@@ -300,6 +177,44 @@ include_once 'header.php'; ?>
     ol {
         color: black;
         font-size: 1em;
+    }
+
+    div.gallery {
+        border: 1px solid #ccc;
+    }
+
+    div.gallery:hover {
+        border: 1px solid #777;
+    }
+
+    div.gallery img {
+        width: 100%;
+        height: 200px;
+        object-fit: cover;
+    }
+
+
+    * {
+        box-sizing: border-box;
+    }
+
+    .responsive {
+        /* padding: 0 6px; */
+        float: left;
+        width: 25%;
+    }
+
+    @media only screen and (max-width: 700px) {
+        .responsive {
+            width: 49.99999%;
+            margin: 6px 0;
+        }
+    }
+
+    @media only screen and (max-width: 500px) {
+        .responsive {
+            width: 100%;
+        }
     }
 </style>
 <!-- End Blog -->
