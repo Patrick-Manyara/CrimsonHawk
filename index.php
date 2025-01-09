@@ -1,7 +1,7 @@
 <?php include_once 'header.php'; ?>
 <!-- Start Banner  -->
 <div class="banner-area">
-    <div id="bootcarousel" class="carousel inc-top-heading slide carousel-fade animate_text" data-bs-ride="carousel" >
+    <div id="bootcarousel" class="carousel inc-top-heading slide carousel-fade animate_text" data-bs-ride="carousel" data-interval="5000">
         <!-- Wrapper for slides -->
         <div class="carousel-inner text-light carousel-zoom">
             <div class="item active">

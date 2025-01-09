@@ -1,8 +1,12 @@
 <?php
+require 'vendor/autoload.php'; // Include Composer's autoload file
+// Load .env variables
+$dotenv = Dotenv\Dotenv::createImmutable(__DIR__);
+$dotenv->load();
 
-$apiKey = 'AIzaSyAkQrt3ywWNECAozTczXy7_oTtlYcXGzJU';
-$channelId = 'UCl8WNRMDjRD8OhqUmjvo1UQ'; // Replace with the actual channel ID
-$maxResults = 6; // Number of latest videos to fetch
+$apiKey = $_ENV['YOUTUBE_API_KEY'];
+$channelId =$_ENV['YOUTUBE_CHANNEL_ID'];
+$maxResults = $_ENV['MAX_RESULTS'];
 
 // YouTube API URL to get videos
 $url = "https://www.googleapis.com/youtube/v3/search?key=$apiKey&channelId=$channelId&order=date&maxResults=$maxResults";
@@ -10,6 +14,7 @@ $url = "https://www.googleapis.com/youtube/v3/search?key=$apiKey&channelId=$chan
 // Fetch videos
 $response = file_get_contents($url);
 $data = json_decode($response);
+
 
 ?>
 
